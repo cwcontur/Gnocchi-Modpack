@@ -1,4 +1,6 @@
 
+![Client-Side](https://img.shields.io/static/v1?label=&message=Client-Side&color=informational)
+
 # Mod Packs[^note]
 
 Mods (short for modifications) change Minecraft​'s game content in some way, such as to make minor adjustments to the game's mechanics or implement entirely new features.
