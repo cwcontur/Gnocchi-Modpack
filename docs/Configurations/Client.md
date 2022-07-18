@@ -18,7 +18,7 @@ Modifications to game settings and mod configurations.
 ---
 
 ## Video Settings
-*This mod pack uses Rubidium (an Unofficial Fork of CaffeineMC's "Sodium"), so menu settings will appear different to vanilla Minecraft. Not all available options are listed below.*
+*This mod pack uses [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium "Rubidium Curseforge") (an Unofficial Fork of CaffeineMC's "[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium "Sodium Curseforge")"), so menu settings will appear different to vanilla Minecraft. **Not all available options are listed below.***
 
 ---
 
