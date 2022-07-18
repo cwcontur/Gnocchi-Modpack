@@ -23,6 +23,8 @@ Mods (short for modifications) change Minecraft​'s game content in some way, s
 1. TOC
 {:toc}
 
+---
+
 ## Purpose
 
 Most mods add content to the game to alter gameplay, change the creative feel, or give the player more options in how they interact with the Minecraft world. Some mods may be bigger expansions, while others add more settings and options to optimize speed, graphics, or gameplay of the game. Server mods or plugins mainly give server admins more options and ease of use, and most mods for single-player have a server version that allows or enhances the mod in multiplayer. Notably, a significant amount of Java Edition item duplication glitches are not patched in Java Edition (either never patched, or in the case of TNT duplication, patched then reverted) but mods that patch them are available.
@@ -30,6 +32,8 @@ Most mods add content to the game to alter gameplay, change the creative feel, o
 When the base game is updated, the creator of a mod must update the mod accordingly, otherwise the mod may no longer work.
 
 An official way of creating mods called add-ons is available for Bedrock Edition.
+
+---
 
 ## Types of Mods
 
@@ -48,6 +52,8 @@ Server mods are modifications to the official Minecraft server software. They ar
 Mod packs are collections of mods that have been put together and configured so that they all work together. Mod packs are often centered around a general theme like tech, quests, or magic. Mod packs often have either custom launchers or installers that make installing and running the mod pack easy. Some popular mod packs include Feed The Beast, Tekkit, RLCraft, and Hexxit.
 
 Many mod packs can be found on custom launchers, which make it easy to install and launch various mod packs. In addition to making it easy to install mod pack clients, certain launchers can also download server mod packs.
+
+---
 
 ## Crash reports
 
