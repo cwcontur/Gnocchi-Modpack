@@ -35,10 +35,12 @@ If Minecraft crashes, a modified game is flagged in the crash report.
 
 The crash report text includes one of these lines near the bottom:
 
-```Is Modded: Probably not. Jar signature remains and client brand is untouched
+```
+Is Modded: Probably not. Jar signature remains and client brand is untouched
 Is Modded: Very likely; Jar signature invalidated
 Is Modded: Definitely: client brand changed to (present loader, such as "fml,forge", "modloader", or "fabric")
-Is Modded: Unknown (can't tell)```
+Is Modded: Unknown (can't tell)
+```
 
 The code that checks for mods is fairly simple, and it's not always correct; it may say 'probably not' even with mods installed. However, it's very difficult to get the 'very likely' message if you haven't modified your Minecraft .jar file somehow, so that's essentially a 'yes'. There's also a 'definitely' message, seen when a Bukkit server crashes and under other similar circumstances, like when the Minecraft Forge API is installed.
 
