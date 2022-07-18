@@ -153,8 +153,7 @@ permalink: docs/Mods
 - [Advancement Plaques (by Grend_G)](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)  
 - [Super Circuit Maker (by amadornes)](https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker)  
 - [Dimensional Dungeons (by Catastrophe573)](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)  
-- [Client Tweaks (by BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)![Client-Side](https://img.shields.io/static/v1?label=&message=Client-Side&color=informational)
-  
+- [Client Tweaks (by BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)![Client-Side](https://img.shields.io/static/v1?label=&message=Client-Side&color=informational)  
 - [Witherproofed (by sajeyson12)](https://www.curseforge.com/minecraft/mc-mods/witherproofed)  
 - [FTB Chunks (Forge) (by FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)  
 - [Pylons (by MutantGumdrop)](https://www.curseforge.com/minecraft/mc-mods/pylons)  
