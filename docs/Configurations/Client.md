@@ -5,24 +5,29 @@ parent: Configurations
 ---
 
 # Client Configurations
+
 {: .no_toc }
 
 Modifications to game settings and mod configurations.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
 ---
 
 ## Video Settings
+
 *This mod pack uses [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium "Rubidium Curseforge") (an Unofficial Fork of CaffeineMC's "[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium "Sodium Curseforge")"), so menu settings will appear different to vanilla Minecraft. **Not all available options are listed below.***
 
 ---
 
 ### General
+
 | Setting | Value |
 | Render Distance | `10 Chunks` |
 | Simulation Distance | `10 Chunks` |
@@ -35,6 +40,7 @@ Modifications to game settings and mod configurations.
 ---
 
 ### Quality
+
 | Setting | Value |
 |:----------------|:---------------:|
 | Graphics | `Fast` |
@@ -51,6 +57,7 @@ Modifications to game settings and mod configurations.
 ---
 
 ### Performance
+
 | Setting | Value |
 |:----------------|:---------------:|
 | Chunk Update Threads | `4 threads` |
@@ -64,6 +71,7 @@ Modifications to game settings and mod configurations.
 ---
 
 ### Extras
+
 | Setting                    | Value           |
 |:---------------------------|:---------------:|
 | Chunk Memory Allocator     | `Async`         |
