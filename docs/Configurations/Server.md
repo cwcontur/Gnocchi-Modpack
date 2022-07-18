@@ -19,18 +19,18 @@ Server settings and mod configs which have been changed. A basic description of 
 ## JVM Server Arguments
 
 ```java
--Xmn32G -Xmx32G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8 -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15  -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 
+-Xmn8G -Xmx8G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8 -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15  -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 
 ```
 
 ## JVM Arguments Explained
-`-Xmn10G`
+`-Xmn8G`
 <div class="code-example" markdown="1">
 Minimum java heap size. Oracle recommends that -Xmn and -Xmx be set to the same value. This eliminates potentially costly heap reallocations, and can reduce the amount of heap fragmentation that can occur. Setting -Xms is then unnecessary since the heap size itself is static.
 </div>
 
 ---
 
-`-Xmx24G`
+`-Xmx8G`
 <div class="code-example" markdown="1">
 The max memory GC will use. Setting a low maximum heap value compared to the amount of live data decrease performance by forcing frequent garbage collections.
 </div>
