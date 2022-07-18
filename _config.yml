@@ -8,7 +8,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 , "docs/tests/"
 ]
 
-markdown: GFM
+# markdown: GFM
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
@@ -57,5 +57,18 @@ back_to_top_text: "Back to top"
 
 plugins:
   - jekyll-seo-tag
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
 
 footer_content: "Copyright &copy; 2022 Connor C. Distributed by an <a href=\"https://github.com/cwcontur/Gnocchi-Modpack/blob/main/LICENSE\">⚖ GPL-3.0 license.</a>"
