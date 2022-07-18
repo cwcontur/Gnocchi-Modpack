@@ -65,20 +65,20 @@ Modifications to game settings and mod configurations.
 ---
 
 ### Extras
-| Setting | Value |
-|:----------------|:---------------:|
-| Chunk Memory Allocator | `Async` |
-| Use Persistent Mapping  | `[checked]` |
-| CPU Render-Ahead Limit | `4 frame(s)` |
-| Allow Direct Memory Access | `[checked]` |
-| Display FPS | `Off` |
-| FPS Display Position | `Pixels` |
-| True Darkness | `[unchecked]` |
-| True Darkness Mode | `Dark` |
-| Enable fog | `[checked]` |
-| Cloud Height | `Blocks [256]` |
-| Enable Max Entity Distance | `[checked]` |
-| Max Entity Distance | `Blocks [64]` |
-| Vertical Entity Distance | `Blocks [32]` |
-| Max Tile Distance | `Blocks [64]` |
-| Vertical Tile Distance | `Blocks [32]` |
+| Setting                    | Value           |
+|:---------------------------|:---------------:|
+| Chunk Memory Allocator     | `Async`         |
+| Use Persistent Mapping     | `[checked]`     |
+| CPU Render-Ahead Limit     | `4 frame(s)`    |
+| Allow Direct Memory Access | `[checked]`     |
+| Display FPS                | `Off`           |
+| FPS Display Position       | `Pixels`        |
+| True Darkness              | `[unchecked]`   |
+| True Darkness Mode         | `Dark`          |
+| Enable fog                 | `[checked]`     |
+| Cloud Height               | `Blocks [256]`  |
+| Enable Max Entity Distance | `[checked]`     |
+| Max Entity Distance        | `Blocks [64]`   |
+| Vertical Entity Distance   | `Blocks [32]`   |
+| Max Tile Distance          | `Blocks [64]`   |
+| Vertical Tile Distance     | `Blocks [32]`   |
