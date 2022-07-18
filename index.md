@@ -13,15 +13,15 @@ permalink: /
 This is the documentation for Gnocchi mod pack to get you a jump-start on your adventures.
 {: .fs-6 .fw-300 }
 
+## About Mod Packs[^note]
+
+Mods (short for modifications) change Minecraft​'s game content in some way, such as to make minor adjustments to the game's mechanics or implement entirely new features.
+
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
-## Mod Packs[^note]
-
-Mods (short for modifications) change Minecraft​'s game content in some way, such as to make minor adjustments to the game's mechanics or implement entirely new features.
 
 ## Purpose
 
