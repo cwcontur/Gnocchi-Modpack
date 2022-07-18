@@ -24,8 +24,6 @@ Modifications to game settings and mod configurations.
 
 ### General
 | Setting | Value |
-|----------------|---------------|
-
 | Render Distance | `10 Chunks` |
 | Simulation Distance | `10 Chunks` |
 | Brightness | `[user's choice]` |
