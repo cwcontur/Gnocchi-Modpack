@@ -13,7 +13,7 @@ permalink: /
 This is the documentation for Gnocchi mod pack to get you a jump-start on your adventures.
 {: .fs-6 .fw-300 }
 
-## About Mod Packs[^note]
+## About Mod[s][^note]
 
 Mods (short for modifications) change Minecraft​'s game content in some way, such as to make minor adjustments to the game's mechanics or implement entirely new features.
 
