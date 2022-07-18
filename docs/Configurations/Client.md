@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Client
-parent: Configuration
+parent: Configurations
 ---
 
 # Client Configurations
