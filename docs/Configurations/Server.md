@@ -16,7 +16,10 @@ Server settings and mod configs which have been changed. A basic description of 
 1. TOC
 {:toc}
 
-## JVM Arguments [In-use]
+## JVM Server Arguments
+```-Xmn32G -Xmx32G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8 -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15  -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 ```
+
+## JVM Arguments Explained
 `-Xmn10G`
 > Minimum java heap size. Oracle recommends that -Xmn and -Xmx be set to the same value. This eliminates potentially costly heap reallocations, and can reduce the amount of heap fragmentation that can occur. Setting -Xms is then unnecessary since the heap size itself is static.
 
@@ -74,7 +77,7 @@ Server settings and mod configs which have been changed. A basic description of 
 `-XX:MaxTenuringThreshold=1`
 > Maximum value for tenuring threshold. The default value is 15.
 
-## Optional JVM Arguments [Not in-use]
+## Optional JVM Arguments
 - AggressiveHeap
 > Enables Java heap optimization. This sets various parameters to be optimal for long-running jobs with intensive memory allocation, based on the configuration of the computer (RAM and CPU). By default, the option is disabled and the heap is not optimized.
 
