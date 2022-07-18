@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Server
-parent: Configuration
+parent: Configurations
 ---
 
 # Server Configuration
