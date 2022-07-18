@@ -18,7 +18,7 @@ Modifications to game settings and mod configurations.
 
 ---
 
-## Game Options
+## Options.txt
 version:2975 \
 autoJump:false\
 autoSuggestions:true\
@@ -94,4 +94,4 @@ joinedFirstServer:true\
 hideBundleTutorial:false\
 syncChunkWrites:true\
 showAutosaveIndicator:true\
-allowServerListing:true\
+allowServerListing:true
