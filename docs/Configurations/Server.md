@@ -27,7 +27,7 @@ Minimum java heap size. Oracle recommends that -Xmn and -Xmx be set to the same 
 `-Xmx24G`
 <div class="code-example" markdown="1">
 The max memory GC will use. Setting a low maximum heap value compared to the amount of live data decrease performance by forcing frequent garbage collections.
-
+</div>
 `-XX:+UseG1GC`
 <div class="code-example" markdown="1">
 The Garbage-First (G1) garbage collector is a server-style garbage collector, targeted for multiprocessor machines with large memories. It attempts to meet garbage collection (GC) pause time goals with high probability while achieving high throughput. Whole-heap operations, such as global marking, are performed concurrently with the application threads. This prevents interruptions proportional to heap or live-data size.
