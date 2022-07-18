@@ -15,12 +15,11 @@ Modifications to game settings and mod configurations.
 
 1. TOC
 {:toc}
-
 ---
 
 ## Video Settings
 *This mod pack uses Rubidium (an Unofficial Fork of CaffeineMC's "Sodium"), so menu settings will appear different to vanilla Minecraft. Not all available options are listed below.*
-
+---
 ### General
 Setting | Value
 --- | ---
@@ -31,7 +30,7 @@ GUI Scale | `3x`
 Fullscreen Mode | `Fullscreen`
 VSync | `[user's choice]`
 Max Framerate | `[user's choice]`
-
+---
 ### Quality
 Setting | Value
 --- | ---
@@ -45,7 +44,7 @@ Biome Blend | `2 block(s)`
 Entity Distance | `100%`
 Entity Shadows | `[unchecked]`
 Mipmap Levels | `4x`
-
+---
 ### Performance
 Setting | Value
 --- | ---
@@ -56,7 +55,7 @@ Use Fog Occlusion | `[checked]`
 Use Entity Culling | `[checked]`
 Use Particle Culling | `[checked]`
 Animated Only Visible Textures | `[checked]`
-
+---
 ### Extras
 Setting | Value
 --- | ---
