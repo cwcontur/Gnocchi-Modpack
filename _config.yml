@@ -8,8 +8,6 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 , "docs/tests/"
 ]
 
-color_scheme: foo
-
 markdown: kramdown
 # Enable or disable the site search
 # Supports true (default) or false
@@ -74,3 +72,5 @@ compress_html:
   profile: false
 
 footer_content: "Copyright &copy; 2022 Connor C. Distributed by an <a href=\"https://github.com/cwcontur/Gnocchi-Modpack/blob/main/LICENSE\">⚖ GPL-3.0 license.</a>"
+
+color_scheme: foo
