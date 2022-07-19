@@ -55,22 +55,21 @@ Many mod packs can be found on custom launchers, which make it easy to install a
 
 ---
 
-## Crash reports
+# Getting Started
 
-If Minecraft crashes, a modified game is flagged in the crash report.
+**1.** Install the mod pack using either CurseForge, or MultiMC.
 
-The crash report text includes one of these lines near the bottom:
+## Installation with CurseForge
 
-```
-Is Modded: Probably not. Jar signature remains and client brand is untouched
-Is Modded: Very likely; Jar signature invalidated
-Is Modded: Definitely: client brand changed to (present loader, such as "fml,forge", "modloader", or "fabric")
-Is Modded: Unknown (can't tell)
-```
+- If you don't have CurseForge installed, get it [here](https://download.curseforge.com/).
 
-The code that checks for mods is fairly simple, and it's not always correct; it may say 'probably not' even with mods installed. However, it's very difficult to get the 'very likely' message if you haven't modified your Minecraft .jar file somehow, so that's essentially a 'yes'. There's also a 'definitely' message, seen when a Bukkit server crashes and under other similar circumstances, like when the Minecraft Forge API is installed.
+- Additionally, download the mod pack [here](https://www.curseforge.com/minecraft/modpacks/gnocchi).
 
-'Probably not' appears when the client/server brand appears to the in-game check to be unaltered (often termed 'vanilla') and the META-INF folder is still there. 'Very likely' appears when the META-INF folder is not present but the client/server brand seems to be vanilla. 'Definitely' plus the client name appears when the client is not vanilla:
-`Is Modded: Definitely: Client brand changed to 'fml,forge'`
+- After installing and accessing the Minecraft tab in the CurseForge application, click "*+ Create Custom Profile*" in the top right of the window.
 
-[^note]: Page info provided by [Mods](https://minecraft.fandom.com/wiki/Mods "minecraft.fandom.com/wiki/mods") Minecraft Wiki
+- Then, near the top left, click import where is says "*Or import a previously created profile*"
+
+- Navigate to your download location, select the mod pack, and then click "*Open*" to automatically import and create a profile for the mod pack.
+
+- CurseForge will download all needed assets, and once it's done, the game will be ready to play.
+
