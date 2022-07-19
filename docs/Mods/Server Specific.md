@@ -53,7 +53,7 @@ There is a dramatic change in recipes that are normally found towards the end of
 
 ## FastWorkbench
 
-This is a mod aimed at improving performance of all crafting-related functions.  It fixes the bug introduced in Minecraft 1.12 where shift-click crafting a stack of items could cause momentary freezes.  However, it does slightly more than just fixing that issue.
+This is a mod aimed at improving performance of all crafting-related functions.  It fixes the bug introduced in *Minecraft* 1.12 where shift-click crafting a stack of items could cause momentary freezes.  However, it does slightly more than just fixing that issue.
 
 FastWorkbench causes all crafting operations to cache the last recipe used.  On top of this, it reduces calls to that cached recipe, by only detecting changes when the stored item in the crafting matrix actually changes (vanilla retries every time anything changes, such as stack size).  This results in the number of matching operations being reduced to one, instead of anywhere between one and nearly 600.
 
@@ -63,7 +63,7 @@ Back in 1.12, FastWorkbench fully removed the recipe book, which meant recipes w
 
 ## FerriteCore
 
-This mod reduces the memory usage of Minecraft in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).
+This mod reduces the memory usage of *Minecraft* in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).
 
 ---
 
