@@ -73,3 +73,6 @@ Many mod packs can be found on custom launchers, which make it easy to install a
 
 - CurseForge will download all needed assets, and once it's done, the game will be ready to play.
 
+---
+
+[^note]: Page info provided by [Mods](https://minecraft.fandom.com/wiki/Mods "minecraft.fandom.com/wiki/mods") Minecraft Wiki
