@@ -10,7 +10,7 @@ parent: Mods
 Mods that make significant changes/improvements to the Minecraft client.
 {: .fs-6 .fw-300 }
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Table of Contents
   </summary>
