@@ -10,11 +10,20 @@ parent: Mods
 Mods that make significant changes/improvements to the Minecraft client.
 {: .fs-6 .fw-300 }
 
-## Table of contents
+<details open markdown="block">
+  <summary>
+    Table of Contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+<!-- ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+{:toc} -->
 
 ---
 
