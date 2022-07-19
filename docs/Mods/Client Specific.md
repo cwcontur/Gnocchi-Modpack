@@ -19,12 +19,6 @@ Mods that make significant changes/improvements to the Minecraft client.
 {:toc}
 </details>
 
-<!-- ## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc} -->
-
 ---
 
 # Performance
