@@ -8,6 +8,8 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 , "docs/tests/"
 ]
 
+color_scheme: foo
+
 markdown: kramdown
 # Enable or disable the site search
 # Supports true (default) or false
