@@ -216,7 +216,7 @@ Borderless Fullscreen. Minecraft's default mode makes it hard to tab out. This i
 
 - **Integration With Magnesium/Rubidium Dynamic Lights.** This mod works perfectly with MDL, and improves its performance drastically with its optimizations. If you have MDL, you'll want to install this mod.
 
-===
+---
 
 # QOL (Quality of Life)
 
