@@ -19,6 +19,8 @@ Mods which are specific to server profiles.
 {:toc}
 </details>
 
+---
+
 # Performance
 
 ## AI Improvements
