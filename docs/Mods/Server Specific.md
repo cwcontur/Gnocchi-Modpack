@@ -61,6 +61,12 @@ Back in 1.12, FastWorkbench fully removed the recipe book, which meant recipes w
 
 ---
 
+## FerriteCore
+
+This mod reduces the memory usage of Minecraft in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).
+
+---
+
 ## Get It Together, Drops!
 
 This mod adds two configuration options to control how dropped items combine on the ground. This can significantly improve performance in areas with lots of dropped items, like explosion craters or farms. In 1.15+, these config settings can be found in the serverconfig folder of your world's folder.
