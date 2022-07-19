@@ -66,6 +66,14 @@ Krypton contains several optimizations, including:
 
 ---
 
+### LazyDFU
+
+LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" - that is, it will not immediately create the rules required to migrate data from older versions of *Minecraft* to newer versions until it actually needs to do so. It does not modify DFU and should be safe, but do exercise more than the usual caution.
+
+The premise of LazyDFU is simple: most of the time, you will not need to convert data for every version of the game. As a result, DFU rule compilation occurs later, when the game is already up and running. This means it is possible you may see lag spikes if LazyDFU forces the game to compile migration rules, but once complete there is no performance penalty.
+
+---
+
 ## Radium Reforged
 
 Radium Reforged is an Unofficial Fork of CaffeineMC's "Lithium", made to work with Forge Mod Loader. It's a general-purpose optimization mod for *Minecraft* which works to improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior. It works on both the client and server, and can be installed on servers without requiring clients to also have the mod. With the mod installed, you can see on average a 45% improvement to server tick times, resulting in a much leaner game.
@@ -154,6 +162,14 @@ Calculating the new power level of redstone wire after a block update is costly.
 
 ---
 
+## Radon
+
+Radon is an Unofficial Fork of CaffeineMC's "Phosphor", made to work with Forge Mod Loader.
+
+Phosphor is a *Minecraft* mod which works to optimize one of game's most inefficient areas-- the lighting engine. It works on both the client and server, and can be installed on servers without requiring clients to also have the mod. With Phosphor, the amount of time the game takes to generate chunks can be halved for some dimensions, and frame stuttering experienced while traversing the world can be significantly reduced. It's a no-compromises solution for improving performance either in single-player or large multi-player servers, and changes no features or behaviors of the vanilla game.
+
+---
+
 ## Rubidium
 
 Rubidium is an Unofficial Fork of CaffeineMC's "Sodium", made to work with Forge Mod Loader.
@@ -199,3 +215,318 @@ Borderless Fullscreen. Minecraft's default mode makes it hard to tab out. This i
 - **Configurable Cloud Height.** Vanilla clouds are quite low, and there's no other mod to raise them on Forge. This mod defaults them to being a bit higher.
 
 - **Integration With Magnesium/Rubidium Dynamic Lights.** This mod works perfectly with MDL, and improves its performance drastically with its optimizations. If you have MDL, you'll want to install this mod.
+
+===
+
+# QOL (Quality of Life)
+
+## Bad Wither No Cookie
+
+A lightweight universal mod to silence these nasty world wide broadcast sounds:
+
+- Wither
+- End Dragon
+- Thunder
+- and now any sound that any mod makes!
+
+---
+
+## Client Tweaks
+
+This mod adds a bunch of optional tweaks to improve the Quality of Life during gameplay. Tweaks can be individually enabled or disabled and configured. Many of the tweaks are disabled by default, so make sure to enable the features you want for the most bestest experience possible.
+
+---
+
+## Climb Ladders Fast
+
+Very simple and efficient mod to climb ladders faster.  Should also work with other climbing mechanics like vines
+
+Let go of movement keys and look up to go up faster, look down to go down faster.
+
+---
+
+## Connectivity
+
+Lightweight mod which solves several connection problems like Login-Timeouts, DecoderException, Packet size limits, Ghostblock issues, Payload too large and more. It also offers commands to analyze network traffic.
+
+---
+
+## Crash Utilities
+
+ Crash Utilities adds a number of tools for finding and fixing common server problems.
+
+---
+
+## Debugify
+
+Debugify is a project that fixes over 60 bugs found on the [bug tracker](https://bugs.mojang.com/projects/MC/issues) in *Minecraft*. (and does nothing more!)
+
+**"MC-147605" is switched off to false because it breaks JEI search bar.**
+
+---
+
+## DefaultSettings
+
+This client mod offers the ability of creating and using modpacks which ship custom settings, entries in the server list or even custom keybindings without having them overwriting your local settings every time the modpack updates.
+
+---
+
+## Ding
+
+Very simple mod. Clientside. Plays a configurable sound when Minecraft loads and reaches the Main Menu, or when the world loads when you connect to a server.
+
+---
+
+## DrawerFPS
+
+Simple, efficient mod which lets you configure at which range Storage Drawers do render items to improve fps.
+
+---
+
+## Durability Tooltip
+
+Durability Tooltip shows you the durability of an item!
+
+---
+
+## FallingTree
+
+This mod will change the way you break trees. 2 modes are available:
+
+- **Instantaneous:** Break one log and the whole tree will fall
+
+- **Shift down:** Break a block and the log will slowly shift down as you cut it (good if you don't want to "cheat" too much but are lazy to go cut top log blocks 😛)
+
+---
+
+## Farsight
+
+Farsight is a client-side util which lets you see farther on servers than the servers view distance. 
+
+It works by having the client keep the chunk data, even when the server unloads that chunk up to a max distance of 32 chunks(configurable).
+
+---
+
+## Fix Experience Bug
+When players travel to and from other modded dimensions, there is a bug in *Minecraft* where their experience is displayed as zero until they earn one new experience point or log out of the game and log back in.
+
+This bug blocks players from enchanting items and using items that require experience.
+
+This mod fixes this bug.  
+
+---
+
+## Forgiving Void
+
+Have you ever wondered what would happen if instead of dying in the void, you just kept falling? Turns out you just come back out from the top (and the fall doesn't even kill you due to magic miracle power).
+
+Instead of dying in the void, you will fall back down from the sky. Despite the large falling height, you can still survive as long as you had full health when landing.
+
+---
+
+## Inventory HUD +
+
+This mod contains a few features, first of all - Inventory HUD, it shows your inventory while you are playing, you can switch between mods (mini/normal and horizontal/vertical), also you can change background transparency and toggle animation on/off 
+
+Next feature is PotionHUD, it shows your potion effects with timer or duration bar if you are using mini mode, you can change gap between effects and background transparency in config, and you can enable horizontal mode as well
+
+And last but not least feature is ArmorHUD, it shows durability of your armor and equipment, also shows how many free slots do you have in your inventory and how many arrows do you have. This HUD is fully customizable, you can change scale, type of damage indicator or turn on/off each part of your equipment
+
+You can change a lot of options in config ("Mod" button in Main Menu, then "Config"), also you can change the position for each HUD by simply dragging and dropping them. To open ingame config screen you can use keybind ("O" by default)
+
+---
+
+## Inventory Profiles Next
+
+This mod will:
+
+- Help you keep your inventory sorted
+- Replace your quasi-broken tool
+- Dump everything in that chest with one click
+- Move the items you have that are also already in the chest
+- Lock item slots in place so that sorting ignores them
+- Keep locked slots empty
+- Allow you to press R+C to set your shortcuts
+- Be pure client-side, so that it works everywhere
+
+---
+
+## Inventory Sorter
+
+Some simple inventory sorting tweaks. Middle click sorts, mousewheel in and out of inventory one item at a time.
+
+Quick note: the default keybindings for the mousewheel actions *are* the wheel. If you set them to something else, just reset to recover the wheel operation.
+
+---
+
+## Just Enough Items (JEI)
+
+JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
+
+### JEI Enchantment Info
+
+This mod adds JEI info entries for enchantments. Press R while hovering over a book with a single enchantment to view info about it.
+
+### JEI Integration
+
+JEI Integration, the successor to NEI Integration by Tonius, is an addon for Just Enough Items (JEI) for *Minecraft* 1.10 and above. The mod provides JEI recipe handlers for other mods where otherwise absent. In addition to additional recipe handlers, it adds configurable tooltips which can provide insightful information for pack developers and tech-savvy players.
+
+### JEITweaker
+
+This mod adds CraftTweaker support for Just Enough Items, such as the ability to hide items, hide categories and add JEI descriptions items.
+
+### Just Enough Advancements
+
+An addon for JEI which shows Advancements in JEI. You can search for them as they were items. They will tell you what you need to do to reach them, even if they aren't unlocked!
+
+### Just Enough Effect Descriptions
+
+Just Enough Effect Descriptions of JEED is a JEI plugin that provides useful information regarding status effects.
+
+The mod adds a new Effects recipe category accessed either by clicking any of the newly added status effect icons on the JEI item screen or by clicking an active effect from its box on the inventory screen.
+
+### Just Enough Resources
+
+Adds JEI integration for world resources like ores and mob drops.
+
+---
+
+## Jade🔍
+
+Jade is a UI improvement mod which shows information about what you are looking at. Jade is a fork of HWYLA by TehNut
+
+- Item Handlers - Show items inside item handlers (chests, hoppers, ender chests...)
+
+- Breaking Progress - Show block breaking progress as a small progress bar
+
+- Brewing Stand - Show fuels and process time
+
+- Mob Effects - Show what potion effects the mob has
+
+- Entity Growth - Show growing time and breeding cooldown of animals
+
+- Horse stats - Jump height and speed of horses, mules and donkeys, even strength of llamas
+
+- Item Frame - Show item in item frame
+
+- Hide Mod Names - Hide mod name in tooltip (Disabled by default)
+
+- Beehive - Show bees and honey in beehive
+
+- Armor Stand - Show armors on armor stand
+
+- Chicken Egg - Show time before next egg
+
+- Command Block - Show command line
+
+- Trapped Chest - Hide as normal chest
+
+- TNT - Show stability
+
+- Note Block - Show pitch and instrument
+
+- Painting - Show painting name
+
+- Accurate Block Name - Shows "Potted Cactus" rather than "Cactus"
+
+- Misc - Show boat, end crystal, armor stand and more
+
+- For modders - Additional tooltip renderers
+
+### Jade Addons
+
+This mod adds more mod supports for Jade 🔍 1.18+.
+
+---
+
+## JourneyMap
+
+JourneyMap is a client+server mod for Forge which maps your *Minecraft* world in real-time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen.
+
+### JourneyMap Integration
+
+This mod was made to let JourneyMap support some features from other mods to make your life easier.
+
+And it's also included some mod tweaks and non-mod integration functions btw.
+
+---
+
+## Leap
+
+*Take a leap forward with this simple mod that adds a new enchantment that allows you to double jump!*
+
+The Leaping enchantment can be obtained just like any other treasure enchantment, being available as loot in chests, fishing, or from the Librarian Villager. It can only be obtained in one level. The enchantment is exclusive to boots. You can use a double jump anytime your motion is moving downward.
+
+---
+
+## Login Protection
+
+Protects the player during login and dimension change/respawn teleport from any harm.
+
+---
+
+## Lootr
+
+**What is Lootr? It's simple: unique inventories for every loot chest for every player on a server.**
+
+**What does that mean?** When you open a loot chest (distinctly textured from Vanilla chests), what items you get are unique to you (as though you had opened an Ender Chest). This means no empty chests, and no picking up other people's trash!
+
+**How does this help?** For multiplayer servers, especially those with mods that depend on items looted from chests, it means finding loot closer to home. No more extensive, server-draining trips generating hundreds of chunks in search of a fresh chest.
+
+**How does it work?** Any time an eligible container is placed in the world, it is tested to see if it can be converted. This is now retroactive! You can add Lootr to a pre-existing world.
+
+**What if I don't want all chests to be available to everyone?** Especially when it comes to mods that require you to pass through a dungeon and clear it to obtain loot, there can be balance issues. You can now block certain chests (based on dimension, loot table, loot table's mod ID, or structure), or set chests to Decay, meaning they can only be looted for a pre-determined (and configurable) period of time. See the Refreshing & Decaying section for more info.
+
+---
+
+## Mod Name Tooltip
+
+Mod Name Tooltip shows which mod an ItemStack came from on its tooltip.
+
+---
+
+## Shutup Experimental Settings!
+
+This simple mod is a forge port of the fabric mod "Disable Custom Worlds Advice" which disables the annoying "Experimental Features" advice that appears every time you create or load a world with custom dimensions or world settings. You can use it if either this screen annoys you as much as it does to me or you are creating a mod with custom worldgen!
+
+---
+
+## TipTheScales
+
+Allows for more options when adjusting the GUIScale option as well as making it a slider.
+
+---
+
+## Toast Control
+
+This mod allows you to control what toasts show up in Minecraft.  By default, Minecraft shows you all toasts, including toasts for Recipes, Advancements, the Narrator, and Tutorials.  
+
+This mod, by default, disables toasts for Recipes and Tutorials.  It can disable any other kind of toast through the configuration file.
+
+If you do not want to block toasts, but think they are in the way, you can change their backgrounds.  Toast Control allows for translucent or transparent backgrounds (vanilla toasts only).
+
+---
+
+## Traveler's Titles
+
+Traveler's Titles is a simple client-side mod that adds RPG-like titles when entering biomes or dimensions.
+
+---
+
+## Vein Mining
+
+Vein Mining is a mod that adds the titular Vein Mining enchantment, which allows the enchanted tool to break matching connected blocks. The enchantment and mining logic are highly configurable, letting players and modpack developers find their preferred method of balance.
+
+---
+
+## Wall-Jump!
+
+Wall to wall platforming in *Minecraft*! This mod adds wall jumping and double jumping to the game.
+
+**Wall Cling:** Jump towards a wall and hold the wall jump key (LSHIFT). Then...
+
+**Wall Jump:** While wall clinging, keep holding W and let go of LSHIFT to wall jump.
+
+**Double Jump:** Optional mid-air jump that you can use to your advantage.
+
+---

@@ -185,6 +185,14 @@ Calculating the new power level of redstone wire after a block update is costly.
 
 ---
 
+## Radon
+
+Radon is an Unofficial Fork of CaffeineMC's "Phosphor", made to work with Forge Mod Loader.
+
+Phosphor is a *Minecraft* mod which works to optimize one of game's most inefficient areas-- the lighting engine. It works on both the client and server, and can be installed on servers without requiring clients to also have the mod. With Phosphor, the amount of time the game takes to generate chunks can be halved for some dimensions, and frame stuttering experienced while traversing the world can be significantly reduced. It's a no-compromises solution for improving performance either in single-player or large multi-player servers, and changes no features or behaviors of the vanilla game.
+
+---
+
 ## Starlight
 
 Starlight is a Forge mod for rewriting the light engine to fix lighting performance and lighting errors.
