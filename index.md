@@ -95,9 +95,16 @@ It's recommended to pregenerate portions of your world for the smoothest experie
 
 **This mod pack changes/improves the vanilla behavior of the game in terms of: player movement, player HUD, player inventory, and more. Check out '*[Introduction](https://mod.gnocchi.cc/docs/Introduction/)*' page for info on these changes which includes keybinds, gameplay behavior, etc.**
 
+[Introduction](https://mod.gnocchi.cc/docs/Introduction/){: .btn .btn-blue}
+
 More info about individual mods and resources to help with mods can be found underneath the '*Mods*' tab.
 
+[Mods](https://mod.gnocchi.cc/docs/Mods){: .btn }
+
 Info about client changes and server changes can be found under '*Configurations -> [Server](https://mod.gnocchi.cc/docs/Configurations/Server/)*' or '*-> [client](https://mod.gnocchi.cc/docs/Configurations/Client/)*' should you wish to know more about the specifics of changes to the game.
+
+[Server](https://mod.gnocchi.cc/docs/Configurations/Server/){: .btn }
+[Client](https://mod.gnocchi.cc/docs/Configurations/Client/){: .btn }
 
 ---
 
