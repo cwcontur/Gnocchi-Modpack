@@ -205,7 +205,7 @@ You can change a lot of options in config ("Mod" button in Main Menu, then "Conf
 
 ### [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
 
-You're able to:
+Cluttered inventories be no more! Inventory sorting is a part of this modpack along with tweaks to make moving items easier.
 
 - Keep your inventory sorted
 - Replace your quasi-broken tool
