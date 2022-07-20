@@ -169,8 +169,6 @@ This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. They Go in a 
 
 ### [Inventory HUD](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 
-- Shortcut: `O`
-
 This mod contains a few features, first of all - Inventory HUD, it shows your inventory while you are playing, you can switch between mods (mini/normal and horizontal/vertical), also you can change background transparency and toggle animation on/off.
 
 ![](../docs/assets/inventory.png)
