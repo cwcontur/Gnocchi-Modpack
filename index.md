@@ -88,11 +88,11 @@ This process doesn't take a lot of time and can significantly improve chunk load
 
 ## More Info
 
-**This mod pack changes/improves the vanilla behavior of the game in terms of: player movement, player HUD, player inventory, and more. Check out '*Introduction*' page for info on these changes which includes keybinds, gameplay behavior, etc.**
+**This mod pack changes/improves the vanilla behavior of the game in terms of: player movement, player HUD, player inventory, and more. Check out '*[Introduction](https://mod.gnocchi.cc/docs/Introduction/)*' page for info on these changes which includes keybinds, gameplay behavior, etc.**
 
 More info about individual mods and resources to help with mods can be found underneath the '*Mods*' tab.
 
-Info about client changes and server changes can be found under '*Configurations -> Server*' or '*-> client*' should you wish to know more about the specifics of changes to the game.
+Info about client changes and server changes can be found under '*Configurations -> [Server](https://mod.gnocchi.cc/docs/Configurations/Server/)*' or '*-> [client](https://mod.gnocchi.cc/docs/Configurations/Client/)*' should you wish to know more about the specifics of changes to the game.
 
 ---
 
