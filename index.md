@@ -80,7 +80,7 @@ It's recommended to pregenerate portions of your world for the smoothest experie
 
 **Please note, not all available dimensions are listed above, such as `dimdungeons:build_dimension` and `dimdungeons:dungeon_dimension`. Additionally, the dimension `bonsaitrees3:growtown` should *not* be pregenerated because it is not a dimension that players can visit; it exists for the backend of the mod to use.**
 
-*Additional Chunky commands can be found via `/chunky help*
+*Additional Chunky commands can be found via `/chunky help`*
 
 This process doesn't take a lot of time and can significantly improve chunk loading performance of the game to make the overall experience faster + smoother.
 
