@@ -57,6 +57,8 @@ Many mod packs can be found on custom launchers, which make it easy to install a
 
 # Getting Started
 
+## World Pregeneration
+
 It's recommended to pregenerate portions of your world for the smoothest experience. *[Chunky]((https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge))* is used to do this; by default, it uses `minecraft:overworld` as the dimension it is generating, but this can be changed.
 
 1. `/chunky radius 500` (Radius is # of chunks; any number can be used, but the world size grows exponentially with larger numbers and the process takes longer)
@@ -82,11 +84,13 @@ It's recommended to pregenerate portions of your world for the smoothest experie
 
 This process doesn't take a lot of time and can significantly improve chunk loading performance of the game to make the overall experience faster + smoother.
 
+---
+
 ## More Info
 
-**This mod pack changes/improves the vanilla behavior of the game in terms of: player movement, player HUD, player inventory, and more. Check out 'Introduction' page for info on these changes which includes keybinds, gameplay behavior, etc.**
+**This mod pack changes/improves the vanilla behavior of the game in terms of: player movement, player HUD, player inventory, and more. Check out '*Introduction*' page for info on these changes which includes keybinds, gameplay behavior, etc.**
 
-More info about individual mods and resources to help with mods can be found underneath the 'Mods' tab.
+More info about individual mods and resources to help with mods can be found underneath the '*Mods*' tab.
 
 Info about client changes and server changes can be found under '*Configurations -> Server*' or '*-> client*' should you wish to know more about the specifics of changes to the game.
 
