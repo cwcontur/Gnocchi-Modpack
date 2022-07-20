@@ -83,6 +83,8 @@ Biome names are added as a simple client-side mod that adds RPG-like titles when
 
 *Supports all biomes & dimensions.*
 
+![](../docs/assets/titles.png)
+
 ---
 
 ### [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
