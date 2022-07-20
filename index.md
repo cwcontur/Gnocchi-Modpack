@@ -57,19 +57,36 @@ Many mod packs can be found on custom launchers, which make it easy to install a
 
 # Getting Started
 
-**1.** Install the mod pack using either CurseForge, or MultiMC.
+It's recommended to pregenerate portions of your world for the smoothest experience. *[Chunky]((https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge))* is used to do this; by default, it uses `minecraft:overworld` as the dimension it is generating, but this can be changed.
 
-## Installation with CurseForge
+1. `/chunky radius 500` (Radius is # of chunks; any number can be used, but the world size grows exponentially with larger numbers and the process takes longer)
 
-- If you don't have CurseForge installed, get it [here](https://download.curseforge.com/).
+2. `/chunky start`
 
-- Additionally, download the mod pack [here](https://www.curseforge.com/minecraft/modpacks/gnocchi).
+   - A progress bar will appear at the top of the screen along with a timer in order to track pregeneration progress.
 
-- After installing and accessing the Minecraft tab in the CurseForge application, click "*+ Create Custom Profile*" in the top right of the window.
+3. Once Chunky finishes, you can also use it to pregenerate other dimensions if desired using: `/chunky world [dimension]` (Replace dimension with the name of the desired dimension to pregenerate from the list below)
+    - `allthemodium:mining`
+    - `allthemodium:the_other`
+    - `assemblylinemachines:chaos_planes`
+    - `blue_skies:everbright`
+    - `blue_skies:everdawn`
+    - `minecraft:the_end`
+    - `minecraft:the_nether`
+    - `the_bumblezone:the_bumblezone`
+    - `twilightforest:twilight_forest`
 
-- Then, near the top left, click import where is says "*Or import a previously created profile*"
+**Please note, not all available dimensions are listed above, such as `dimdungeons:build_dimension` and `dimdungeons:dungeon_dimension`. Additionally, the dimension `bonsaitrees3:growtown` should *not* be pregenerated because it is not a dimension that players can visit; it exists for the backend of the mod to use.**
 
-- Navigate to your download location, select the mod pack, and then click "*Open*" to automatically import and create a profile for the mod pack.
+*Additional Chunky commands can be found via `/chunky help*
 
-- CurseForge will download all needed assets, and once it's done, the game will be ready to play.
+This process doesn't take a lot of time and can significantly improve chunk loading performance of the game to make the overall experience faster + smoother.
+
+## More Info
+
+**This mod pack changes/improves the vanilla behavior of the game in terms of: player movement, player HUD, player inventory, and more. Check out 'Introduction' page for info on these changes which includes keybinds, gameplay behavior, etc.**
+
+More info about individual mods and resources to help with mods can be found underneath the 'Mods' tab.
+
+Info about client changes and server changes can be found under '*Configurations -> Server*' or '*-> client*' should you wish to know more about the specifics of changes to the game.
 

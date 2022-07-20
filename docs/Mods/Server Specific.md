@@ -23,19 +23,19 @@ Mods which are specific to server profiles.
 
 # Performance
 
-## AI Improvements
+## [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 
 Simplified AI modification mod focused on performance and low-level modifications to AIs in the game. Picking up the slack for the base game and improving it for a modded ecosystem. Handling common problems such as too many animals, performance hits from swarms of zombies, and simple remove tasks skipped by larger AI improvement mods.
 
 ---
 
-## Clumps
+## [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 
 Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. On top of this, it also makes the player immediately collect the orbs once they touch the player, so you are not stuck with a bunch of orbs in your face.
 
 ---
 
-## FastFurnace
+## [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 
 FastFurnace utilizes mixins to edit the functionality of the Furnace, Blast Furnace, and Smoker, improving their TPS performance (not smelting speed!)
 
@@ -45,7 +45,7 @@ These changes apply to the Furnace, Blast Furnace, and Smoker.  Any mod utilizin
 
 ---
 
-## FastSuite
+## [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
 
 Similar to the projects FastWorkbench and FastFurnace, FastSuite is a mod about improving recipe performance.  However, unlike those two mods, it improves upon all mods that use the JSON recipe system, rather than just a specific subset of recipes.  It does this by turning the list of recipes from a Set into a LinkedList.  This list is then able to be reordered when a recipe is accessed, making accesses to it in the future much faster.  Recipes that are close enough to the front of the list (that are within the "cache size") are not moved to avoid churning.  The cache size is configurable, and each type of recipe has it's own cache space.
 
@@ -56,7 +56,7 @@ There is a dramatic change in recipes that are normally found towards the end of
 
 ---
 
-## FastWorkbench
+## [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 
 This is a mod aimed at improving performance of all crafting-related functions.  It fixes the bug introduced in *Minecraft* 1.12 where shift-click crafting a stack of items could cause momentary freezes.  However, it does slightly more than just fixing that issue.
 
@@ -66,13 +66,13 @@ Back in 1.12, FastWorkbench fully removed the recipe book, which meant recipes w
 
 ---
 
-## FerriteCore
+## [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 
 This mod reduces the memory usage of *Minecraft* in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).
 
 ---
 
-## Get It Together, Drops!
+## [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops)
 
 This mod adds two configuration options to control how dropped items combine on the ground. This can significantly improve performance in areas with lots of dropped items, like explosion craters or farms. In 1.15+, these config settings can be found in the serverconfig folder of your world's folder.
 
@@ -84,7 +84,7 @@ You can also tell the mod to ignore certain items by creating a datapack and add
 
 ---
 
-## Krypton Reforged
+## [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
 
 Krypton (from Ancient Greek kryptos, "the hidden one") optimizes the *Minecraft* networking stack, meaning it mostly improves server performance with lots of clients, but is also required on the client.
 
@@ -96,13 +96,13 @@ Krypton contains several optimizations, including:
 
 ---
 
-## Observable
+## [Observable](https://www.curseforge.com/minecraft/mc-mods/observable)
 
 A spiritual successor to LagGoggles for *Minecraft* 1.16+, Observable profiles (tile) entities and shows you what's taking up tick time and where. Forge and Fabric compatible. (Note: default keybind to open profiler GUI is r.)
 
 ---
 
-## Radium Reforged
+## [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged)
 
 Radium Reforged is an Unofficial Fork of CaffeineMC's "Lithium", made to work with Forge Mod Loader. It's a general-purpose optimization mod for *Minecraft* which works to improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior. It works on both the client and server, and can be installed on servers without requiring clients to also have the mod. With the mod installed, you can see on average a 45% improvement to server tick times, resulting in a much leaner game.
 
@@ -190,7 +190,7 @@ Calculating the new power level of redstone wire after a block update is costly.
 
 ---
 
-## Radon
+## [Radon](https://www.curseforge.com/minecraft/mc-mods/radon)
 
 Radon is an Unofficial Fork of CaffeineMC's "Phosphor", made to work with Forge Mod Loader.
 
@@ -198,7 +198,7 @@ Phosphor is a *Minecraft* mod which works to optimize one of game's most ineffic
 
 ---
 
-## Starlight
+## [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
 
 Starlight is a Forge mod for rewriting the light engine to fix lighting performance and lighting errors.
 

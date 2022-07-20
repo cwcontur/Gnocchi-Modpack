@@ -7,7 +7,7 @@ parent: Mods
 # Resources for Mods
 {: .no_toc }
 
-Wiki pages and various resources for mods.
+Wiki pages and various resources for select mods which you'll probably need to research.
 {: .fs-6 .fw-300 }
 
 <details markdown="block">

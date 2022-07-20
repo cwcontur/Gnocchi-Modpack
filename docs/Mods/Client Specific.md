@@ -23,27 +23,19 @@ Mods that make significant changes/improvements to the Minecraft client.
 
 # Performance
 
-## Better FPS Render Distance
-
-Better FPS Render Distance is a mod which adds a few performance improvements to increase fps.
-
-By default *Minecraft* renders everything in a square radius(cylinder in 1.18), this is changed to a 3d circular radius which can be stretched horizontally via config or video option(video options button is not available with optifine). The higher the stretch the less caves below you will be rendered, esp distant ones. Provides about 10-35% less chunk sections to be rendered and thus gives a neat fps boost.
-
----
-
-## Better Biome Blend
+## [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
 
 Better Biome Blend is a Client-Side performance and bug-fix mod. It adds support for smooth, large scale, sRGB correct biome color transitions. With the mod installed you can set the "Biome Blend" setting in your video options from 0x0 to 29x29. Compared to Vanilla, this setting no longer impacts performance.
 
 ---
 
-## Clumps
+## [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 
 Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. On top of this, it also makes the player immediately collect the orbs once they touch the player, so you are not stuck with a bunch of orbs in your face.
 
 ---
 
-## EntityCulling
+## [EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 
 Using async path-tracing to skip rendering Block/Entities that are not visible.
 
@@ -51,13 +43,13 @@ Using async path-tracing to skip rendering Block/Entities that are not visible.
 
 ---
 
-## FerriteCore
+## [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 
 This mod reduces the memory usage of Minecraft in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).
 
 ---
 
-## Krypton Reforged
+## [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
 
 Krypton (from Ancient Greek kryptos, "the hidden one") optimizes the *Minecraft* networking stack, meaning it mostly improves server performance with lots of clients, but is also required on the client.
 
@@ -69,7 +61,7 @@ Krypton contains several optimizations, including:
 
 ---
 
-### LazyDFU
+### [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
 
 LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" - that is, it will not immediately create the rules required to migrate data from older versions of *Minecraft* to newer versions until it actually needs to do so. It does not modify DFU and should be safe, but do exercise more than the usual caution.
 
@@ -77,7 +69,7 @@ The premise of LazyDFU is simple: most of the time, you will not need to convert
 
 ---
 
-## Radium Reforged
+## [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged)
 
 Radium Reforged is an Unofficial Fork of CaffeineMC's "Lithium", made to work with Forge Mod Loader. It's a general-purpose optimization mod for *Minecraft* which works to improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior. It works on both the client and server, and can be installed on servers without requiring clients to also have the mod. With the mod installed, you can see on average a 45% improvement to server tick times, resulting in a much leaner game.
 
@@ -165,7 +157,7 @@ Calculating the new power level of redstone wire after a block update is costly.
 
 ---
 
-## Radon
+## [Radon](https://www.curseforge.com/minecraft/mc-mods/radon)
 
 Radon is an Unofficial Fork of CaffeineMC's "Phosphor", made to work with Forge Mod Loader.
 
@@ -173,7 +165,7 @@ Phosphor is a *Minecraft* mod which works to optimize one of game's most ineffic
 
 ---
 
-## Rubidium
+## [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
 
 Rubidium is an Unofficial Fork of CaffeineMC's "Sodium", made to work with Forge Mod Loader.
 
@@ -199,7 +191,7 @@ Animated textures which are not visible in the world are not updated, speeding u
 
 ---
 
-## Rubidium Extras
+## [Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
 
 - **Better Performance.** This mod fixes multiple issues with Sodium and Forge itself to improve performance. It has a patch mitigating random lag spikes in highly modded environments, and a patch fixing a Forge bug that was slowing down Sodium's chunk updating.
 Better FPS Counter. Looks nicer, and can be customized to display minimum frametimes (useful for debugging lag on tick) and average frametimes over the last 15 seconds (for accurate benchmarking)
@@ -223,7 +215,7 @@ Borderless Fullscreen. Minecraft's default mode makes it hard to tab out. This i
 
 # QOL (Quality of Life)
 
-## Bad Wither No Cookie
+## [Bad Wither No Cookie](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
 
 A lightweight universal mod to silence these nasty world wide broadcast sounds:
 
@@ -234,13 +226,13 @@ A lightweight universal mod to silence these nasty world wide broadcast sounds:
 
 ---
 
-## Client Tweaks
+## [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
 
 This mod adds a bunch of optional tweaks to improve the Quality of Life during gameplay. Tweaks can be individually enabled or disabled and configured. Many of the tweaks are disabled by default, so make sure to enable the features you want for the most bestest experience possible.
 
 ---
 
-## Climb Ladders Fast
+## [Climb Ladders Fast](https://www.curseforge.com/minecraft/mc-mods/climb-ladders-fast)
 
 Very simple and efficient mod to climb ladders faster.  Should also work with other climbing mechanics like vines
 
@@ -248,19 +240,19 @@ Let go of movement keys and look up to go up faster, look down to go down faster
 
 ---
 
-## Connectivity
+## [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 
 Lightweight mod which solves several connection problems like Login-Timeouts, DecoderException, Packet size limits, Ghostblock issues, Payload too large and more. It also offers commands to analyze network traffic.
 
 ---
 
-## Crash Utilities
+## [Crash Utilities](https://www.curseforge.com/minecraft/mc-mods/crash-utilities)
 
  Crash Utilities adds a number of tools for finding and fixing common server problems.
 
 ---
 
-## Debugify
+## [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)
 
 Debugify is a project that fixes over 60 bugs found on the [bug tracker](https://bugs.mojang.com/projects/MC/issues) in *Minecraft*. (and does nothing more!)
 
@@ -268,31 +260,31 @@ Debugify is a project that fixes over 60 bugs found on the [bug tracker](https:/
 
 ---
 
-## DefaultSettings
+## [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
 
 This client mod offers the ability of creating and using modpacks which ship custom settings, entries in the server list or even custom keybindings without having them overwriting your local settings every time the modpack updates.
 
 ---
 
-## Ding
+## [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
 
 Very simple mod. Clientside. Plays a configurable sound when Minecraft loads and reaches the Main Menu, or when the world loads when you connect to a server.
 
 ---
 
-## DrawerFPS
+## [DrawerFPS](https://www.curseforge.com/minecraft/mc-mods/drawerfps)
 
 Simple, efficient mod which lets you configure at which range Storage Drawers do render items to improve fps.
 
 ---
 
-## Durability Tooltip
+## [Durability Tooltip](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip)
 
 Durability Tooltip shows you the durability of an item!
 
 ---
 
-## FallingTree
+## [FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 
 This mod will change the way you break trees. 2 modes are available:
 
@@ -302,7 +294,7 @@ This mod will change the way you break trees. 2 modes are available:
 
 ---
 
-## Farsight
+## [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
 
 Farsight is a client-side util which lets you see farther on servers than the servers view distance. 
 
@@ -310,7 +302,8 @@ It works by having the client keep the chunk data, even when the server unloads 
 
 ---
 
-## Fix Experience Bug
+## [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+
 When players travel to and from other modded dimensions, there is a bug in *Minecraft* where their experience is displayed as zero until they earn one new experience point or log out of the game and log back in.
 
 This bug blocks players from enchanting items and using items that require experience.
@@ -319,7 +312,7 @@ This mod fixes this bug.
 
 ---
 
-## Forgiving Void
+## [Forgiving Void](https://www.curseforge.com/minecraft/mc-mods/forgiving-void)
 
 Have you ever wondered what would happen if instead of dying in the void, you just kept falling? Turns out you just come back out from the top (and the fall doesn't even kill you due to magic miracle power).
 
@@ -327,7 +320,7 @@ Instead of dying in the void, you will fall back down from the sky. Despite the 
 
 ---
 
-## Inventory HUD +
+## [Inventory HUD +](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 
 This mod contains a few features, first of all - Inventory HUD, it shows your inventory while you are playing, you can switch between mods (mini/normal and horizontal/vertical), also you can change background transparency and toggle animation on/off 
 
@@ -339,7 +332,7 @@ You can change a lot of options in config ("Mod" button in Main Menu, then "Conf
 
 ---
 
-## Inventory Profiles Next
+## [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
 
 This mod will:
 
@@ -354,7 +347,7 @@ This mod will:
 
 ---
 
-## Inventory Sorter
+## [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
 
 Some simple inventory sorting tweaks. Middle click sorts, mousewheel in and out of inventory one item at a time.
 
@@ -362,40 +355,40 @@ Quick note: the default keybindings for the mousewheel actions *are* the wheel. 
 
 ---
 
-## Just Enough Items (JEI)
+## [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
 
-### JEI Enchantment Info
+### [JEI Enchantment Info](https://www.curseforge.com/minecraft/mc-mods/jei-enchantment-info)
 
 This mod adds JEI info entries for enchantments. Press R while hovering over a book with a single enchantment to view info about it.
 
-### JEI Integration
+### [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration)
 
-JEI Integration, the successor to NEI Integration by Tonius, is an addon for Just Enough Items (JEI) for *Minecraft* 1.10 and above. The mod provides JEI recipe handlers for other mods where otherwise absent. In addition to additional recipe handlers, it adds configurable tooltips which can provide insightful information for pack developers and tech-savvy players.
+JEI ]Integration, the successor to NEI Integration by Tonius, is an addon for Just Enough Items (JEI) for *Minecraft* 1.10 and above. The mod provides JEI recipe handlers for other mods where otherwise absent. In addition to additional recipe handlers, it adds configurable tooltips which can provide insightful information for pack developers and tech-savvy players.
 
-### JEITweaker
+### [JEITweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
 
 This mod adds CraftTweaker support for Just Enough Items, such as the ability to hide items, hide categories and add JEI descriptions items.
 
-### Just Enough Advancements
+### [Just Enough Advancements](https://www.curseforge.com/minecraft/mc-mods/jea)
 
 An addon for JEI which shows Advancements in JEI. You can search for them as they were items. They will tell you what you need to do to reach them, even if they aren't unlocked!
 
-### Just Enough Effect Descriptions
+### [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 Just Enough Effect Descriptions of JEED is a JEI plugin that provides useful information regarding status effects.
 
 The mod adds a new Effects recipe category accessed either by clicking any of the newly added status effect icons on the JEI item screen or by clicking an active effect from its box on the inventory screen.
 
-### Just Enough Resources
+### [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 
 Adds JEI integration for world resources like ores and mob drops.
 
 ---
 
-## Jade🔍
-
+## [Jade🔍](https://www.curseforge.com/minecraft/mc-mods/jade)
+]
 Jade is a UI improvement mod which shows information about what you are looking at. Jade is a fork of HWYLA by TehNut
 
 - Item Handlers - Show items inside item handlers (chests, hoppers, ender chests...)
@@ -436,17 +429,17 @@ Jade is a UI improvement mod which shows information about what you are looking 
 
 - For modders - Additional tooltip renderers
 
-### Jade Addons
+### [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
 
 This mod adds more mod supports for Jade 🔍 1.18+.
 
 ---
 
-## JourneyMap
+## [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 
 JourneyMap is a client+server mod for Forge which maps your *Minecraft* world in real-time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen.
 
-### JourneyMap Integration
+### [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
 
 This mod was made to let JourneyMap support some features from other mods to make your life easier.
 
@@ -454,7 +447,7 @@ And it's also included some mod tweaks and non-mod integration functions btw.
 
 ---
 
-## Leap
+## [Leap](https://www.curseforge.com/minecraft/mc-mods/leap)
 
 *Take a leap forward with this simple mod that adds a new enchantment that allows you to double jump!*
 
@@ -462,13 +455,13 @@ The Leaping enchantment can be obtained just like any other treasure enchantment
 
 ---
 
-## Login Protection
+## [Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
 
 Protects the player during login and dimension change/respawn teleport from any harm.
 
 ---
 
-## Lootr
+## [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
 
 **What is Lootr? It's simple: unique inventories for every loot chest for every player on a server.**
 
@@ -482,25 +475,25 @@ Protects the player during login and dimension change/respawn teleport from any 
 
 ---
 
-## Mod Name Tooltip
+## [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
 
 Mod Name Tooltip shows which mod an ItemStack came from on its tooltip.
 
 ---
 
-## Shutup Experimental Settings!
+## [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 
 This simple mod is a forge port of the fabric mod "Disable Custom Worlds Advice" which disables the annoying "Experimental Features" advice that appears every time you create or load a world with custom dimensions or world settings. You can use it if either this screen annoys you as much as it does to me or you are creating a mod with custom worldgen!
 
 ---
 
-## TipTheScales
+## [TipTheScales](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
 
 Allows for more options when adjusting the GUIScale option as well as making it a slider.
 
 ---
 
-## Toast Control
+## [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 
 This mod allows you to control what toasts show up in Minecraft.  By default, Minecraft shows you all toasts, including toasts for Recipes, Advancements, the Narrator, and Tutorials.  
 
@@ -510,19 +503,19 @@ If you do not want to block toasts, but think they are in the way, you can chang
 
 ---
 
-## Traveler's Titles
+## [Traveler's Titles](https://www.curseforge.com/minecraft/mc-mods/travelers-titles)
 
 Traveler's Titles is a simple client-side mod that adds RPG-like titles when entering biomes or dimensions.
 
 ---
 
-## Vein Mining
+## [Vein Mining](https://www.curseforge.com/minecraft/mc-mods/vein-mining)
 
 Vein Mining is a mod that adds the titular Vein Mining enchantment, which allows the enchanted tool to break matching connected blocks. The enchantment and mining logic are highly configurable, letting players and modpack developers find their preferred method of balance.
 
 ---
 
-## Wall-Jump!
+## [Wall-Jump!](https://www.curseforge.com/minecraft/mc-mods/wall-jump)
 
 Wall to wall platforming in *Minecraft*! This mod adds wall jumping and double jumping to the game.
 
