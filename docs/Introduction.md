@@ -30,8 +30,6 @@ Climb ladders much faster than vanilla *Minecraft*. It doesn't have to be tediou
 - Let go of movement keys and look up to go up faster, look down to go down faster.
 </div>
 
-![](../docs/assets/ladder.gif)
-
 ### [Dashing](https://www.curseforge.com/minecraft/mc-mods/dash)
 
 A dashing mod that adds a new enchant to boots allowing you to dash around. You can obtain a Dashing enchantment book in the same way you can find Frostwalker and Mending books; from chest loot, fishing, raid drops, or trading. This mod is pretty lightweight and is a perfect vanilla+ mod (a mod that fits in with vanilla).
