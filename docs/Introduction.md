@@ -223,9 +223,13 @@ You're able to:
 
 Your world is mapped as you explore and is displayed in the top right of your screen. (This placement can be changed.) Additionally, it provides your current coordinates, the biome you're in, the world name, and the current time in-game.
 
+![](../docs/assets/mini.png)
+
 - A full-screen map is available using `M`
 - Add waypoints to your map using `B` to keep track of locations in any dimension.
 - Claim chunks and keep chunks loaded from the full-screen map.
+
+![](../docs/assets/fullmap.gif)
 
 ---
 
