@@ -7,7 +7,7 @@ permalink: /
 ---
 <img src="https://img.shields.io/github/license/cwcontur/gnocchi-modpack">
 <img src="https://img.shields.io/badge/Mod%20Loader-Forge-blue">
-# Gnocchi is a Minecraft Modpack
+# Gnocchi is a *Minecraft* Modpack
 {: .fs-9 }
 
 This is the documentation for Gnocchi mod pack to get you a jump-start on your adventures. 
@@ -21,7 +21,7 @@ Don't have *Minecraft*? Get it here:
 
 ## About Mods[^note]
 
-Mods (short for modifications) change Minecraft​'s game content in some way, such as to make minor adjustments to the game's mechanics or implement entirely new features.
+Mods (short for modifications) change *Minecraft​'s* game content in some way, such as to make minor adjustments to the game's mechanics or implement entirely new features.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -47,11 +47,11 @@ An official way of creating mods called add-ons is available for Bedrock Edition
 
 Client mods are direct modifications of the Minecraft game files. They are not custom clients, as they require modification of the client.jar file. These require mod loaders such as Minecraft Forge or Fabric.
 
-Because the Minecraft server software ignores custom content from the client side, most of the client mods which add new content to the game do not work in multiplayer unless a modification has also been installed on the server. Some authors of client mods have made server versions of their mods available, and others have not. A few of the Loader/API-type client mods and many of the functional client mods (e.g. OptiFine or TooManyItems) have effect in multiplayer straight away, without any modification on server side.
+Because the *Minecraft* server software ignores custom content from the client side, most of the client mods which add new content to the game do not work in multiplayer unless a modification has also been installed on the server. Some authors of client mods have made server versions of their mods available, and others have not. A few of the Loader/API-type client mods and many of the functional client mods (e.g. OptiFine or TooManyItems) have effect in multiplayer straight away, without any modification on server side.
 
 ### Server-based
 
-Server mods are modifications to the official Minecraft server software. They are commonly designed to make the administration of servers easier by implementing tiered privileges for commands (such as kicking, banning, etc.). They are frequently implemented as "wrappers" which do not modify the main server .jar file, instead of monitoring its output and sending commands to it.
+Server mods are modifications to the official *Minecraft* server software. They are commonly designed to make the administration of servers easier by implementing tiered privileges for commands (such as kicking, banning, etc.). They are frequently implemented as "wrappers" which do not modify the main server .jar file, instead of monitoring its output and sending commands to it.
 
 ### Mod packs
 
