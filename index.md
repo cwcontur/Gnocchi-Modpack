@@ -16,6 +16,7 @@ This is the documentation for Gnocchi mod pack to get you a jump-start on your a
 ---
 
 Don't have *Minecraft*? Get it here: 
+
 [Buy Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc){: .btn .btn-blue }
 
 ## About Mods[^note]
