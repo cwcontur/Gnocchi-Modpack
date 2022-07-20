@@ -30,9 +30,13 @@ Climb ladders much faster than vanilla *Minecraft*. It doesn't have to be tediou
 - Let go of movement keys and look up to go up faster, look down to go down faster.
 </div>
 
+![](../docs/assets/ladder.gif)
+
 ### [Dashing](https://www.curseforge.com/minecraft/mc-mods/dash)
 
 A dashing mod that adds a new enchant to boots allowing you to dash around. You can obtain a Dashing enchantment book in the same way you can find Frostwalker and Mending books; from chest loot, fishing, raid drops, or trading. This mod is pretty lightweight and is a perfect vanilla+ mod (a mod that fits in with vanilla).
+
+![](../docs/assets/dash.gif)
 
 <div class="code-example" markdown="1">
 - Once you’ve enchanted your boots with Dashing, press `R` or your assigned keybind of choice to perform a Dash. You can change your keybind for dashing in your controls menu.
@@ -50,6 +54,8 @@ A simple movement mod which lets the player go into a crawling pose to sneak thr
 
 Take a leap forward with this simple mod that adds a new enchantment that allows you to double jump! The Leaping enchantment can be obtained just like any other treasure enchantment, being available as loot in chests, fishing, or from the Librarian Villager. It can only be obtained in one level. The enchantment is exclusive to boots. You can use a double jump anytime your motion is moving downward.
 
+![](../docs/assets/leap.gif)
+
 <div class="code-example" markdown="1">
 - Simply press `space` to do a double jump while you're in the air.
 </div>
@@ -57,6 +63,8 @@ Take a leap forward with this simple mod that adds a new enchantment that allows
 ### [Step](https://www.curseforge.com/minecraft/mc-mods/step)
 
 Step up your vanilla experience with this mod that adds a balanced Stepping enchantment that allows you to walk up entire blocks. The stepping enchantment can be obtained similarly to Depth Strider, in an Enchantment Table. It can be obtained at around level 20+, on diamond boots for reference.
+
+![](../docs/assets/step.gif)
 
 <div class="code-example" markdown="1">
 - No special movement is required, just walk up blocks.
@@ -181,6 +189,8 @@ This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. They Go in a 
 
 **BLUE HEARTS**- Drop from Envoker inside Woodland Mansion
 
+![](../docs/assets/canister.gif)
+
 ---
 
 ### [Inventory HUD](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
@@ -216,6 +226,8 @@ Cluttered inventories be no more! Inventory sorting is a part of this modpack al
 - Allow you to press `R + C` to set your shortcuts
 - Middle mouse click sorts
 - Mousewheel in and out of inventory one item at a time
+
+![](../docs/assets/output.webp)
 
 ---
 
