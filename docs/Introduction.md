@@ -155,11 +155,16 @@ In order to track your progress, SoL: Carrot offers a handy book called the Food
 This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. They Go in a Bauble Slot.
 
 **RED HEARTS** - Drop From Enemy Mobs
+
 **ORANGE HEARTS**- Drop From Boss Mobs (I.E. Wither)
+
 **GREEN HEARTS**- Drop from the Enderdragon
+
 **BLUE HEARTS**- Drop from Envoker inside Woodland Mansion
 
 ### [Inventory HUD](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+
+- Shortcut: `O`
 
 This mod contains a few features, first of all - Inventory HUD, it shows your inventory while you are playing, you can switch between mods (mini/normal and horizontal/vertical), also you can change background transparency and toggle animation on/off.
 
