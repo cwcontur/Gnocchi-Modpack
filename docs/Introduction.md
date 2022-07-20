@@ -75,7 +75,15 @@ Wall to wall platforming in *Minecraft*! This mod adds wall jumping and double j
 
 ## Gameplay
 
-Added gameplay elements intended to improve the *Minecraft* experience.
+Added/changed gameplay elements intended to improve the *Minecraft* experience.
+
+### [Biome Name Display](https://www.curseforge.com/minecraft/mc-mods/travelers-titles)
+
+Biome names are added as a simple client-side mod that adds RPG-like titles when entering biomes or dimensions.
+
+*Supports all biomes & dimensions.*
+
+---
 
 ### [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
 
@@ -129,6 +137,8 @@ This mod adds a bunch of optional tweaks to improve the Quality of Life during g
 
 - Made up user studies have shown that the average player will much more frequently want to turn off the music than change the master volume, so our team of highly experienced quantum programmers have also brought the music slider back to the main settings screen.
 
+---
+
 ### [Food](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
 
 A mod designed to encourage dietary variety! It does so by rewarding the player for eating a variety of foods instead of punishing them for failing to diversify.
@@ -155,9 +165,11 @@ In order to track your progress, SoL: Carrot offers a handy book called the Food
 
 *Forces a sync of the food list to the client, for when something went wrong and it's mismatched.*
 
+---
+
 ### [Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters)
 
-This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. They Go in a Bauble Slot.
+This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. They Go in a Bauble Slot. 
 
 **RED HEARTS** - Drop From Enemy Mobs
 
@@ -166,6 +178,8 @@ This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. They Go in a 
 **GREEN HEARTS**- Drop from the Enderdragon
 
 **BLUE HEARTS**- Drop from Envoker inside Woodland Mansion
+
+---
 
 ### [Inventory HUD](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 
@@ -185,25 +199,57 @@ You can change a lot of options in config ("Mod" button in Main Menu, then "Conf
 
 ![](../docs/assets/config.png)
 
-### [Inventory Profiles](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
+---
 
+### [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
 
+You're able to:
 
-### [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
+- Keep your inventory sorted
+- Replace your quasi-broken tool
+- Dump everything in that chest with one click
+- Move the items you have that are also already in the chest
+- Lock item slots in place so that sorting ignores them
+- Keep locked slots empty
+- Allow you to press `R + C` to set your shortcuts
+- Middle mouse click sorts
+- Mousewheel in and out of inventory one item at a time
 
-
+---
 
 ### [Mini Map/World Map](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 
+Your world is mapped as you explore and is displayed in the top right of your screen. (This placement can be changed.) Additionally, it provides your current coordinates, the biome you're in, the world name, and the current time in-game.
 
+- A full-screen map is available using `M`
+- Add waypoints to your map using `B` to keep track of locations in any dimension.
+- Claim chunks and keep chunks loaded from the full-screen map.
+
+---
 
 ### [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
 
+Tweaks are included for mouse actions to improve quality of life and make tasks less tedious.
 
+*Configuration found at: `/config/MouseTweaks.cfg`*
 
-### [Biome Name Display](https://www.curseforge.com/minecraft/mc-mods/travelers-titles)
+#### Right Mouse Button (RMB, Holding Item)
 
+> Very similar to the standard RMB dragging mechanic, with one difference: if you drag over a slot multiple times, an item will be put there multiple times. Replaces the standard mechanic if enabled.
 
+#### Left Mouse Button (LMB, Holding Item)
+
+>Lets you quickly pick up or move items of the same type. Hold your left mouse button to pick up an item, drag your mouse across the inventory. Items of the same type will be picked up, hold `shift` and drag. Items of the same type will get "`shift`-clicked":
+
+#### Left Mouse Button (LMB, Without Item)
+
+> Quickly move items into another inventory. Hold shift, then hold your left mouse button, drag your mouse across the inventory. Items will get "shift-clicked".
+
+#### Wheel Tweak
+
+> Scroll to quickly move items between inventories. When you scroll down on an item stack, its items will be moved one by one. When you scroll up, items will be moved into it from another inventory.
+
+---
 
 ## Helpful Things
 
