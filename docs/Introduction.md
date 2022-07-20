@@ -18,7 +18,7 @@ An introduction to new game mechanics.
 
 ---
 
-# Movement
+## Movement
 
 This modpack adds improvements/changes to movement in *Minecraft*.
 
@@ -62,7 +62,7 @@ Step up your vanilla experience with this mod that adds a balanced Stepping ench
 - No special movement is required, just walk up blocks.
 </div>
 
-### [Wall jumping & clinging](https://www.curseforge.com/minecraft/mc-mods/wall-jump)
+### [Wall Jumping & Clinging](https://www.curseforge.com/minecraft/mc-mods/wall-jump)
 
 Wall to wall platforming in *Minecraft*! This mod adds wall jumping and double jumping to the game.
 
@@ -70,6 +70,8 @@ Wall to wall platforming in *Minecraft*! This mod adds wall jumping and double j
 - **Wall Cling:** Jump towards a wall and hold the wall jump key `LSHIFT`
 - **Wall Jump:** While wall clinging, keep holding `W` and let go of `LSHIFT` to wall jump.
 </div>
+
+---
 
 Baubly Heart Canisters
 
