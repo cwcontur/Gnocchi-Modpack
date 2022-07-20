@@ -10,8 +10,13 @@ permalink: /
 # Gnocchi is a Minecraft Modpack
 {: .fs-9 }
 
-This is the documentation for Gnocchi mod pack to get you a jump-start on your adventures. Don't have *Minecraft*? Get it here: [Buy Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc){: .btn .btn-blue }
+This is the documentation for Gnocchi mod pack to get you a jump-start on your adventures. 
 {: .fs-6 .fw-300 }
+
+---
+
+Don't have *Minecraft*? Get it here: 
+[Buy Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc){: .btn .btn-blue }
 
 ## About Mods[^note]
 
@@ -87,6 +92,7 @@ It's recommended to pregenerate portions of your world for the smoothest experie
 - *Additional Chunky commands can be found via `/chunky help`*
   
 </div>
+
 > This process doesn't take a lot of time and can significantly improve chunk loading performance of the game to make the overall experience faster + smoother.
 
 ---
@@ -97,11 +103,11 @@ It's recommended to pregenerate portions of your world for the smoothest experie
 
 [Introduction](https://mod.gnocchi.cc/docs/Introduction/){: .btn .btn-blue}
 
-More info about individual mods and resources to help with mods can be found underneath the '*Mods*' tab.
+*Wanna see which mods are in this pack? Check out the mods page:*
 
 [Mods](https://mod.gnocchi.cc/docs/Mods){: .btn }
 
-Info about client changes and server changes can be found under '*Configurations -> [Server](https://mod.gnocchi.cc/docs/Configurations/Server/)*' or '*-> [client](https://mod.gnocchi.cc/docs/Configurations/Client/)*' should you wish to know more about the specifics of changes to the game.
+Info about client changes and server changes can be found under '*Configurations -> [Server](https://mod.gnocchi.cc/docs/Configurations/Server/)*' or '*-> [client](https://mod.gnocchi.cc/docs/Configurations/Client/)*' should you wish to know more about the specifics of the changes to the game.
 
 [Server](https://mod.gnocchi.cc/docs/Configurations/Server/){: .btn }
 [Client](https://mod.gnocchi.cc/docs/Configurations/Client/){: .btn }
