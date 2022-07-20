@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mods
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: docs/Mods
 ---
@@ -20,7 +20,7 @@ permalink: docs/Mods
 - [Adaptive Performance Tweaks: Mods (by Kaworru)](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-mods)
 - [Adaptive Performance Tweaks: Player Protection / Child Mode (by Kaworru)](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-player)
 - [Adaptive Performance Tweaks: Spawn (by Kaworru)](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-spawn)
-- [Additional Additions \| Forge (by dqu1jjj)](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
+- [Additional Additions | Forge (by dqu1jjj)](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
 - [Additional Bars [FORGE] (by Gamma1772)](https://www.curseforge.com/minecraft/mc-mods/additional-bars)
 - [Additional Cosmetic Stuff (by sa_shi_ro)](https://www.curseforge.com/minecraft/mc-mods/additional-cosmetic-stuff)
 - [Additional Enchanted Miner (by Kotori316)](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)
@@ -149,6 +149,8 @@ permalink: docs/Mods
 - [Energy Control (by Zuxelus)](https://www.curseforge.com/minecraft/mc-mods/energy-control)
 - [Energy Meter (by DamnRelentless)](https://www.curseforge.com/minecraft/mc-mods/energymeter)
 - [Engineer's Decor (by wilechaote)](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
+- [Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons (by Corgi_Taco)](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials)
+- [Enlightened End (by MuffinsDev)](https://www.curseforge.com/minecraft/mc-mods/enlightened-end)
 - [Ensorcellation (by TeamCoFH)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 - [Entity Collision FPS Fix (by Corgi_Taco)](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix)
 - [Entity Culling Fabric/Forge (by tr9zw)](https://www.curseforge.com/minecraft/mc-mods/entityculling)
@@ -208,6 +210,7 @@ permalink: docs/Mods
 - [Inventory HUD+ (by dmitrylovin)](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 - [Inventory Profiles Next (by mirinimi)](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
 - [Inventory Sorter (by cpw)](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
+- [inzhefop's Core (by inzhefop)](https://www.curseforge.com/minecraft/mc-mods/inzhefop-core)
 - [Iron Chests (by ProgWML6)](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 - [Iron Chests: Restocked (by ThatGravyBoat)](https://www.curseforge.com/minecraft/mc-mods/ironchests)
 - [Iron Furnaces [FORGE] (by XenoMustache)](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
@@ -287,8 +290,11 @@ permalink: docs/Mods
 - [MrCrayfish's Furniture Mod (by MrCrayfish)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
 - [MrCrayfish's Gun Mod (by MrCrayfish)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod)
 - [MultiBeds (by ShetiPhian)](https://www.curseforge.com/minecraft/mc-mods/multibeds)
+- [mutil (by mickelus)](https://www.curseforge.com/minecraft/mc-mods/mutil)
 - [Myrtrees (by Jake_Evans)](https://www.curseforge.com/minecraft/mc-mods/myrtrees)
 - [Mysterious Mountain Lib (by sz0999312)](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib)
+- [Mystical Agradditions (by BlakeBr0)](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
+- [Mystical Agriculture (by BlakeBr0)](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
 - [Nature's Compass (by Chaosyr)](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Nether's Delight (by lumpazl)](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
 - [Nether's Exoticism (by Furti_Two)](https://www.curseforge.com/minecraft/mc-mods/nethers-exoticism)
@@ -347,8 +353,8 @@ permalink: docs/Mods
 - [Rubidium (by Asek3)](https://www.curseforge.com/minecraft/mc-mods/rubidium)
 - [Runelic (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/runelic)
 - [Satako library (by Alexiy_Orlov)](https://www.curseforge.com/minecraft/mc-mods/satako-library)
+- [Savage & Ravage (by TeamAbnormals)](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)
 - [Scalable Cat's Force (by Kotori316)](https://www.curseforge.com/minecraft/mc-mods/scalable-cats-force)
-- [Seeds : Sustainable World (by Furti_Two)](https://www.curseforge.com/minecraft/mc-mods/seeds)
 - [ShetiPhianCore (by ShetiPhian)](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
 - [Shutup Experimental Settings! (by Corgi_Taco)](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 - [Signpost (by Gollorum)](https://www.curseforge.com/minecraft/mc-mods/signpost)
@@ -360,6 +366,7 @@ permalink: docs/Mods
 - [Sophisticated Backpacks (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 - [Sophisticated Core (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [Sophisticated Storage (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
+- [spark (by Iucko)](https://www.curseforge.com/minecraft/mc-mods/spark)
 - [Speed Building - Scaffolding behavior (by Lothrazar)](https://www.curseforge.com/minecraft/mc-mods/scaffolding-behavior)
 - [Speedy Hoppers (by Dark_Arcana)](https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers)
 - [Spice of Life: Carrot Edition (by lordcazsius)](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
@@ -375,6 +382,7 @@ permalink: docs/Mods
 - [Technicalities: Lib (TKLib) (by amadornes)](https://www.curseforge.com/minecraft/mc-mods/technicalities-lib)
 - [TerraBlender (Forge) (by TheAdubbz)](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 - [Tesseract (by SuperMartijn642)](https://www.curseforge.com/minecraft/mc-mods/tesseract)
+- [Tetra (by mickelus)](https://www.curseforge.com/minecraft/mc-mods/tetra)
 - [The Bumblezone (Forge) (by telepathicgrunt)](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge)
 - [The Twilight Forest (by Benimatic)](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [Thermal Cultivation (by TeamCoFH)](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
@@ -419,5 +427,3 @@ permalink: docs/Mods
 - [YUNG's Bridges (Forge) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
 - [YUNG's Extras (Forge) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
 - [ZeroCore 2 (by ZeroNoRyouki)](https://www.curseforge.com/minecraft/mc-mods/zerocore)
-- [inzhefop's Core (by inzhefop)](https://www.curseforge.com/minecraft/mc-mods/inzhefop-core)
-- [spark (by Iucko)](https://www.curseforge.com/minecraft/mc-mods/spark)
