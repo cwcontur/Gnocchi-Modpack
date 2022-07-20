@@ -10,7 +10,7 @@ permalink: /
 # Gnocchi is a Minecraft Modpack
 {: .fs-9 }
 
-This is the documentation for Gnocchi mod pack to get you a jump-start on your adventures.
+This is the documentation for Gnocchi mod pack to get you a jump-start on your adventures. Don't have *Minecraft*? Get it here: [Buy Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc){: .btn .btn-blue }
 {: .fs-6 .fw-300 }
 
 ## About Mods[^note]
