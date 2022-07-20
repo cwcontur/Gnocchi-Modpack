@@ -43,7 +43,7 @@ A dashing mod that adds a new enchant to boots allowing you to dash around. You 
 A simple movement mod which lets the player go into a crawling pose to sneak through 1-block high gaps easily.
 
 <div class="code-example" markdown="1">
-    - Default keybind is `C` to go prone.
+- Default keybind is `C` to go prone.
 </div>
 
 ### [Leaping (double jump)](https://www.curseforge.com/minecraft/mc-mods/leap)
