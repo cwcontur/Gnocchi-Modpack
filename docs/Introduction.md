@@ -73,30 +73,30 @@ Wall to wall platforming in *Minecraft*! This mod adds wall jumping and double j
 
 ---
 
-Baubly Heart Canisters
+## Gameplay
 
-Client Tweaks
+### [Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters)
 
 
 
+### [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
+
+### [Inventory HUD](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+
+### [Inventory Profiles](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
+
+### [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
+
+### [Mini Map/World Map](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+
+
+## Helpful Things
 
 Doggy Talents
 
-FallingTree
-
-
-
 GravelMiner
 
-Inventory HUD+
-
-Inventory Profiles
-
-Inventory Sorter
-
-JourneyMap
-
-
+FallingTree
 
 Lootr
 
