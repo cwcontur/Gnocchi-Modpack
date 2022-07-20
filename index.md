@@ -90,3 +90,6 @@ More info about individual mods and resources to help with mods can be found und
 
 Info about client changes and server changes can be found under '*Configurations -> Server*' or '*-> client*' should you wish to know more about the specifics of changes to the game.
 
+---
+
+[^note]: Page info provided by [Mods](https://minecraft.fandom.com/wiki/Mods "minecraft.fandom.com/wiki/mods") Minecraft Wiki
