@@ -144,10 +144,15 @@ In order to track your progress, SoL: Carrot offers a handy book called the Food
 *This mod also features 3 commands:*
 
 `/foodlist size`
+
 *Tells you the number of unique foods you've eaten, as well as and how many more you need to eat until your next milestone.*
+
 `/foodlist clear`
+
 *Clears the stored list of unique foods a player has eaten and resets their heart count. This is useful for testing when editing the config or when you want to start over.*
+
 `/foodlist sync`
+
 *Forces a sync of the food list to the client, for when something went wrong and it's mismatched.*
 
 ### [Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters)
