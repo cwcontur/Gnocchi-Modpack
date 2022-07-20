@@ -143,29 +143,29 @@ This mod adds a bunch of optional tweaks to improve the Quality of Life during g
 
 ### [Food](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
 
-A mod designed to encourage dietary variety! It does so by rewarding the player for eating a variety of foods instead of punishing them for failing to diversify.
+Slice of Life: Carrot is included to encourage dietary variety! It does so by rewarding the player for eating a variety of foods instead of punishing them for failing to diversify.
 
 The mod keeps track of how many unique foods a player has eaten. As they pass certain milestone amounts of unique foods, they permanently gain new hearts, increasing their max health! In order to max out their HP bars, players will have to quest for and craft exotic foods.
 
 This mod comes with a custom config to set the player's starting hearts (which can be less than 10 if desired) as well as the number of unique foods they need to eat until they reach each milestone. The number of hearts per milestone is also configurable.
 
-The default configuration allows a player to go from 10 to 20 hearts by eating most non-poisonous foods in vanilla Minecraft. However, it is mostly designed for modpack authors who want to add Pam's HarvestCraft or other food mods to their modpack, because it adds interest and incentivizes players to explore a complex cooking system. Finally, the niche "chef" players of the Minecraft world will have a place of honor next to the miners and engineers!
+The default configuration allows a player to go from 10 to 20 hearts by eating most non-poisonous foods in vanilla *Minecraft*. However, it is mostly designed for modpack authors who want to add Pam's HarvestCraft or other food mods to their modpack, because it adds interest and incentivizes players to explore a complex cooking system. Finally, the niche "chef" players of the *Minecraft* world will have a place of honor next to the miners and engineers!
 
-In order to track your progress, SoL: Carrot offers a handy book called the Food Book, crafted simply by combining a book and a carrot in any shape. This book offers a visualization of your overall progress, as well as lists of the foods you have and have not eaten. (The latter can be disabled in config.)
+In order to track your progress, Slice of Life: Carrot offers a handy book called the Food Book, crafted simply by combining a book and a carrot in any shape. This book offers a visualization of your overall progress, as well as lists of the foods you have and have not eaten. (The latter can be disabled in config.)
 
 *This mod also features 3 commands:*
 
 `/foodlist size`
 
-*Tells you the number of unique foods you've eaten, as well as and how many more you need to eat until your next milestone.*
+> *Tells you the number of unique foods you've eaten, as well as and how many more you need to eat until your next milestone.*
 
 `/foodlist clear`
 
-*Clears the stored list of unique foods a player has eaten and resets their heart count. This is useful for testing when editing the config or when you want to start over.*
+> *Clears the stored list of unique foods a player has eaten and resets their heart count. This is useful for testing when editing the config or when you want to start over.*
 
 `/foodlist sync`
 
-*Forces a sync of the food list to the client, for when something went wrong and it's mismatched.*
+> *Forces a sync of the food list to the client, for when something went wrong and it's mismatched.*
 
 ---
 
@@ -255,24 +255,24 @@ Tweaks are included for mouse actions to improve quality of life and make tasks 
 
 ## Helpful Things
 
-Doggy Talents
+[Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
 
-GravelMiner
+[FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 
-FallingTree
+[GravelMiner](https://www.curseforge.com/minecraft/mc-mods/gravelminer)
 
-Lootr
+[Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
 
-Lucky Block
+[Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block)
 
-Packing Tape
+[Packing Tape](https://www.curseforge.com/minecraft/mc-mods/packing-tape)
 
-Sophisticated Backpacks
+[Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 
-Tool Belt
+[Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
 
-Vending Machines
+[Vending Machines](https://www.curseforge.com/minecraft/mc-mods/vending-machine)
 
-Wandering Bag
+[Wandering Bag](https://www.curseforge.com/minecraft/mc-mods/wandering-bag)
 
-Waystones
+[Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
