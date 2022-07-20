@@ -10,8 +10,7 @@ permalink: docs/Mods
 {: .no_toc }
 
 - [A Block of Charcoal (by TurkeyDev)](https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal)
-- [AI Improvements (by QueenOfMissiles)](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)Default label
-{: .label }
+- [AI Improvements (by QueenOfMissiles)](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 - [ATO - All the Ores (by ATMTeam)](https://www.curseforge.com/minecraft/mc-mods/ato)
 - [Absent by Design (by Lothrazar)](https://www.curseforge.com/minecraft/mc-mods/absent-by-design)
 - [Adaptive Performance Tweaks (Bundle) (by Kaworru)](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks)
