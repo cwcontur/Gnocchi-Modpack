@@ -70,6 +70,8 @@ When the Iron Chest mod is detected, those chest textures are used, otherwise th
 
 ![](../docs/assets/ironchests.png)
 
+---
+
 ### [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
 
 Ever wanted to have a stronger connection with your tamed wolf? Now you can have that!
@@ -200,6 +202,8 @@ Sophisticated backpacks is yet another backpack mod this time with backpack you 
 - 5 tiers - leather, iron, gold, diamond, netherite
 - Each of the tiers adds more storage slots and more upgrade slots
   
+#### Upgrades
+
 <div class="code-example" markdown="1">
 - *Pickup Upgrade:* Picks up items that match the filter directly into the backpack
 - *Magnet Upgrade:* Variant of pickup that teleports items around the player directly into the backpack
@@ -234,6 +238,38 @@ Sophisticated backpacks is yet another backpack mod this time with backpack you 
 
 - Occasionally backpacks and some upgrades can be found in loot chests
 - And even though rare, mobs can also spawn with backpacks on them sometimes with a bit of loot in those and sometimes they would even play a tune
+
+---
+
+### [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
+
+Sophisticated Storage is mod that adds multiple tiers of Barrels, Chests and Shulker Boxes, any of these can have many different combinations of two colors applied to them and barrels/chests come in different wood varieties and in addition to that you can use many different upgrades in them to augment their functionality.
+
+**Dyeing the storage blocks in crafting table**
+
+- Color of multiple dyes in recipe gets combined similar to how it works for coloring leather armor except each of these can have two colors - main and accent
+- Dyes to the left of the storage in the recipe apply to the main color
+- Dyes to the right apply to the accent color of the storage
+- Dyes in the same column apply to both
+- And once dyed you can continue adding dyes which combine with the current main color, accent color or both
+
+![](../docs/assets/sophisticatedstorage.png)
+
+#### Upgrades
+
+<div class="code-example" markdown="1">
+- *Pickup Upgrade:* Picks up items that match the filter directly into the backpack
+- *Magnet Upgrade:* Variant of pickup that teleports items around the player directly into the backpack
+- *Filter Upgrade:* Can be used to limit what can be piped into / out of backpack
+- *Void Upgrade:* Does exactly what you would expect voids items that are picked up based on its filter
+- *Compacting Upgrade:* Compacts items using 2x2 and 3x3 recipes, usually coal, redstone and similar
+- *Feeding upgrade:* Feeds player with food from backpack when the player gets hungry
+-  *Smelting/Smoking/Blasting Upgrades:* Portable furnace in backpack which can also work automatically
+-  *Crafting Upgrade:* Crafting table in upgrade tab
+-  *Stonecutter Upgrade:* Portable version of stonecutter in upgrade tab
+- *Stack Upgrade:* Makes it possible to fit more in the inventory slots
+-  *Jukebox Upgrade:* Allows to play music discs in upgrade tab
+</div>
 
 ---
 
