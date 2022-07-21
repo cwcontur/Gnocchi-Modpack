@@ -204,6 +204,8 @@ Tired of juggling the different tools in your inventory? With a tool belt, it's 
 - Item Display on Players -- show off your tools at all times! (only the first 2 slots are shown)
 - Now with an actual belt!
 
+---
+
 ### [Vending Machines](https://www.curseforge.com/minecraft/mc-mods/vending-machine)
 
 A fun little mod that lets players buy a random set of 7 items from a vending machine.
@@ -221,13 +223,20 @@ A random vending machine spawns randomly in Villages! It will contain a random s
 
 ![](../docs/assets/vendingmachines.jpg)
 
+---
+
 ### [Wandering Bag](https://www.curseforge.com/minecraft/mc-mods/wandering-bag)
 
 Wandering Bag adds loot bags which are looted by *Minecraft* creatures designated as "intelligent" and having an inventory such as Wandering Traders, Witches and Pillagers. When you get some, you can, with the help of a right click, get relics as surprising as each other until you wonder "Why didn't they use it during the fight?".
 
 ![](../docs/assets/wanderingbags.png)
 
-
+---
 
 ### [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 
+This mod adds waystone blocks that the player can return to once they've been activated, either through a Warp Scroll, a rechargeable Warp Stone, or by using an existing waystone to hop from one to the other.
+
+![](../docs/assets/waystones.png)
+
+![](../docs/assets/wayui.png)
