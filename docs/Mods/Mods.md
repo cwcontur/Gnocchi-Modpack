@@ -5,9 +5,17 @@ nav_order: 4
 has_children: true
 permalink: docs/Mods
 ---
-
 # Mods
 {: .no_toc }
+
+All of the mods included in this mod pack.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
