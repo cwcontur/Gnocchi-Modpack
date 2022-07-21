@@ -22,6 +22,8 @@ Some information to help you get started on your adventures.
 
 *A few mods which you'll probably want to take advantage of.*
 
+---
+
 ### [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
 
 Ever wanted to have a stronger connection with your tamed wolf? Now you can have that!
@@ -38,11 +40,15 @@ Ever wanted to have a stronger connection with your tamed wolf? Now you can have
 
 #### [Wiki](https://github.com/percivalalb/DoggyTalents/wiki)
 
+
+
 ![](../docs/assets/dogui.png)
 
 ![](../docs/assets/dogitems.png)
 
 ![](../docs/assets/dogexample.png)
+
+
 
 **Q: How do I get a dog?**
 
@@ -60,15 +66,21 @@ Ever wanted to have a stronger connection with your tamed wolf? Now you can have
 
 > Mainly aesthetic you can put your dog in the bath and it will continuously shake!
 
+---
+
 ### [FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 
 Tired of having to chop down the whole tree? Now you can cut down the whole thing by just breaking one log!
+
+---
 
 ### [GravelMiner](https://www.curseforge.com/minecraft/mc-mods/gravelminer)
 
 This mod will make your mining trips more enjoyable by getting rid of the falling gravel problem that everyone has run into before.
 
-**Insta-break falling gravel when breaking the block below.**
+**Insta-breaks falling gravel when breaking the block below.**
+
+---
 
 ### [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
 
@@ -78,6 +90,10 @@ What is Lootr? It's simple: unique inventories for every loot chest for every pl
 
 **How does this help?** For multiplayer servers, especially those with mods that depend on items looted from chests, it means finding loot closer to home. No more extensive, server-draining trips generating hundreds of chunks in search of a fresh chest.
 
+![](../docs/assets/lootr.png)
+
+---
+
 ### [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block)
 
 The Lucky Block will naturally spawn in your world, and across all dimensions. It's quite rare, though slightly more likely in dimensions such as The Nether. It may also generate within special structures, indicating how positive the outcome is likely to be.
@@ -86,7 +102,17 @@ When you open a Lucky Block, it will randomly choose one of over 100 possible ou
 
 #### [More Info](https://www.luckyblockmod.com/info/)
 
+
+
 ![](../docs/assets/luckyblock.png)
+
+![](../docs/assets/fireblock.png)
+
+![](../docs/assets/pinkblock.png)
+
+
+
+---
 
 ### [Packing Tape](https://www.curseforge.com/minecraft/mc-mods/packing-tape)
 
@@ -103,6 +129,8 @@ Ever wanted to move tile entities? Now you can! Packing tape lets you move aroun
 4. Right-click on a packed block to unpack.
 
 *Note: Sneaking while placing the block will disable the rotation system while unboxing!*
+
+---
 
 ### [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 
@@ -127,23 +155,23 @@ Sophisticated backpacks is yet another backpack mod this time with backpack you 
 - Each of the tiers adds more storage slots and more upgrade slots
   
 <div class="code-example" markdown="1">
-- Pickup Upgrade: Picks up items that match the filter directly into the backpack
-- Magnet Upgrade: Variant of pickup that teleports items around the player directly into the backpack
-- Filter Upgrade: Can be used to limit what can be piped into / out of backpack
-- Void Upgrade: Does exactly what you would expect - voids items that are picked up based on its filter
-- Compacting Upgrade: Compacts items using 2x2 and 3x3 recipes, usually coal, redstone and similar
-- Feeding upgrade: Feeds player with food from backpack when the player gets hungry
-- Deposit upgrade: Deposit upgrade makes it so that shift right clicking an inventory with the backpack in hand deposits items specified in upgrades filter into that inventory.
-- Restock Upgrade: Takes items defined in its filter from inventory shift right clicked with backpack in hand and puts them in backpack.
-- Refill upgrade: Keeps a stack of item filled in player's inventory
--  Inception Upgrade: Allows putting backpacks in backpack
--  Everlasting Upgrade: Makes backpack indestructible
--  Smelting Upgrades: Portable furnace in backpack which can also work automatically
--  Crafting Upgrade: Crafting table in upgrade tab
--  Stonecutter Upgrade: Portable version of stonecutter in upgrade tab
--  Stack Upgrade: Makes it possible to fit more in the inventory slots
--  Jukebox Upgrade: Allows to play music discs in upgrade tab
--  Toolswapper Upgrade: Automatically swaps tools into player's hand
+- *Pickup Upgrade:* Picks up items that match the filter directly into the backpack
+- *Magnet Upgrade:* Variant of pickup that teleports items around the player directly into the backpack
+- *Filter Upgrade:* Can be used to limit what can be piped into / out of backpack
+- *Void Upgrade:* Does exactly what you would expect voids items that are picked up based on its filter
+- *Compacting Upgrade:* Compacts items using 2x2 and 3x3 recipes, usually coal, redstone and similar
+- *Feeding upgrade:* Feeds player with food from backpack when the player gets hungry
+- *Deposit upgrade:* Deposit upgrade makes it so that shift right clicking an inventory with the backpack in hand deposits items specified in upgrades filter into that inventory.
+- *Restock Upgrade:* Takes items defined in its filter from inventory shift right clicked with backpack in hand and puts them in backpack.
+- *Refill upgrade:* Keeps a stack of item filled in player's inventory
+-  *Inception Upgrade:* Allows putting backpacks in backpack
+-  *Everlasting Upgrade:* Makes backpack indestructible
+-  *Smelting Upgrades:* Portable furnace in backpack which can also work automatically
+-  *Crafting Upgrade:* Crafting table in upgrade tab
+-  *Stonecutter Upgrade:* Portable version of stonecutter in upgrade tab
+- *Stack Upgrade:* Makes it possible to fit more in the inventory slots
+-  *Jukebox Upgrade:* Allows to play music discs in upgrade tab
+-  *Toolswapper Upgrade:* Automatically swaps tools into player's hand
 </div>
 
 **Dyeing the backpack in crafting table**
@@ -161,15 +189,43 @@ Sophisticated backpacks is yet another backpack mod this time with backpack you 
 - Occasionally backpacks and some upgrades can be found in loot chests
 - And even though rare, mobs can also spawn with backpacks on them sometimes with a bit of loot in those and sometimes they would even play a tune
 
+---
+
 ### [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
 
+Tired of juggling the different tools in your inventory? With a tool belt, it's much easier to manage them!
 
+- Baubles/Curios compatibility! 
+- 2 stock slots, upgradeable to 9 by combining with tool pouches in an anvil!
+- Quickly switch between tools using the handy Radial Menu! (Hold `R` down -- or change the keybind to your preference)
+- It holds any non-stackable item!
+- Item Whitelist, for those cases where "non-stackable" isn't enough to decide what can be inserted
+- Item Blacklist, for when "any" is too much
+- Item Display on Players -- show off your tools at all times! (only the first 2 slots are shown)
+- Now with an actual belt!
 
 ### [Vending Machines](https://www.curseforge.com/minecraft/mc-mods/vending-machine)
 
+A fun little mod that lets players buy a random set of 7 items from a vending machine.
 
+A random vending machine spawns randomly in Villages! It will contain a random selection of *Minecraft* and modded items each day.
+
+- Common items sell for 1 emerald each. You can buy up to 8 of the same item before it runs out.
+- Uncommon items sell for 16 emeralds each. You can buy up to 4 of the same item.
+- Rare items sell for 32 emeralds each. You can buy up to 2 of the same item.
+- Epic items sell for 64 emeralds. You can buy one item.
+
+![](../docs/assets/vendingbuild.png)
+
+![](../docs/assets/vendinggui.png)
+
+![](../docs/assets/vendingmachines.jpg)
 
 ### [Wandering Bag](https://www.curseforge.com/minecraft/mc-mods/wandering-bag)
+
+Wandering Bag adds loot bags which are looted by *Minecraft* creatures designated as "intelligent" and having an inventory such as Wandering Traders, Witches and Pillagers. When you get some, you can, with the help of a right click, get relics as surprising as each other until you wonder "Why didn't they use it during the fight?".
+
+![](../docs/assets/wanderingbags.png)
 
 
 
