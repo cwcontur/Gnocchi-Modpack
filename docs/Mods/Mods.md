@@ -9,6 +9,7 @@ permalink: docs/Mods
 # Mods
 {: .no_toc }
 
+
 - [A Block of Charcoal (by TurkeyDev)](https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal)
 - [AI Improvements (by QueenOfMissiles)](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 - [ATO - All the Ores (by ATMTeam)](https://www.curseforge.com/minecraft/mc-mods/ato)
@@ -20,7 +21,7 @@ permalink: docs/Mods
 - [Adaptive Performance Tweaks: Mods (by Kaworru)](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-mods)
 - [Adaptive Performance Tweaks: Player Protection / Child Mode (by Kaworru)](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-player)
 - [Adaptive Performance Tweaks: Spawn (by Kaworru)](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-spawn)
-- [Additional Additions | Forge (by dqu1jjj)](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
+- [Additional Additions \| Forge (by dqu1jjj)](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
 - [Additional Bars [FORGE] (by Gamma1772)](https://www.curseforge.com/minecraft/mc-mods/additional-bars)
 - [Additional Cosmetic Stuff (by sa_shi_ro)](https://www.curseforge.com/minecraft/mc-mods/additional-cosmetic-stuff)
 - [Additional Enchanted Miner (by Kotori316)](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)

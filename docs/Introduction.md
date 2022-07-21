@@ -266,27 +266,3 @@ Tweaks are included for mouse actions to improve quality of life and make tasks 
 > Scroll to quickly move items between inventories. When you scroll down on an item stack, its items will be moved one by one. When you scroll up, items will be moved into it from another inventory.
 
 ---
-
-## Helpful Things
-
-[Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
-
-[FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
-
-[GravelMiner](https://www.curseforge.com/minecraft/mc-mods/gravelminer)
-
-[Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
-
-[Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block)
-
-[Packing Tape](https://www.curseforge.com/minecraft/mc-mods/packing-tape)
-
-[Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
-
-[Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
-
-[Vending Machines](https://www.curseforge.com/minecraft/mc-mods/vending-machine)
-
-[Wandering Bag](https://www.curseforge.com/minecraft/mc-mods/wandering-bag)
-
-[Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
