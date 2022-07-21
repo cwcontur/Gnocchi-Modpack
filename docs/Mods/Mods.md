@@ -6,9 +6,14 @@ has_children: true
 permalink: docs/Mods
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # Mods
 {: .no_toc }
-
 
 - [A Block of Charcoal (by TurkeyDev)](https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal)
 - [AI Improvements (by QueenOfMissiles)](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
