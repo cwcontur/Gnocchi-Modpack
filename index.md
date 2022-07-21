@@ -73,7 +73,7 @@ It's recommended to pregenerate portions of your world for the smoothest experie
 
    - A progress bar will appear at the top of the screen along with a timer in order to track pregeneration progress.
 
-![](../docs/assets/chunky.png)
+    ![](../docs/assets/chunky.png)
 
 3. Once Chunky finishes, you can also use it to pregenerate other dimensions if desired using: `/chunky world [dimension]` (Replace dimension with the name of the desired dimension to pregenerate from the list below)
     - `allthemodium:mining`
