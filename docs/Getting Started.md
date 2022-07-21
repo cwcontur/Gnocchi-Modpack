@@ -24,6 +24,52 @@ Some information to help you get started on your adventures.
 
 ---
 
+### [Colossal Chests](https://www.curseforge.com/minecraft/mc-mods/colossal-chests)
+
+Sometimes, regular chests are just too small, this mod allows you to create multiblock chests of any size.
+
+![](../docs/assets/smallbigbiggerbiggest.png)
+
+To build these chests, you will need multiple Colossal Chest Wall blocks and exactly one Colossal Chest Core block.
+
+This Core block will contain the actual items of the multiblock, so break that one, and all items will pop out.
+
+![](../docs/assets/colwalls.png)
+
+![](../docs/assets/colcore.png)
+
+Your structure must be cubic, each side must have an equal length. The minimum size of the structure is two blocks.
+
+The structure must be made up of Chest Wall's, exactly one Colossal Chest Core block must be present in the structure.
+
+Once your structure is valid, the multiblock will be formed visually.
+
+![](../docs/assets/build1.png)
+
+You must only build the actual walls of the structure, leave the inside of the structure hollow.
+
+![](../docs/assets/build2.png)
+
+You can attach hoppers and pipes to the chest at the position of the Colossal Chest Core block.
+
+![](../docs/assets/build3.png)
+
+Obviously, you can also open a gui to manage the inventory of the chest yourself.
+
+![](../docs/assets/build4.png)
+
+Optionally, you can add any number of Colossal Chest Interface blocks to your structure to make those spots interfacable with hoppers and pipes.
+
+![](../docs/assets/build5.png)
+
+![](../docs/assets/build6.png)
+
+Next to the wood chests, variants for all types of metals (including obsidian) also exist, just like with the Iron Chest mod.
+
+When the Iron Chest mod is detected, those chest textures are used, otherwise the internal textures are used (this can be disabled).
+
+![](../docs/assets/ironchests.png)
+
 ### [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
 
 Ever wanted to have a stronger connection with your tamed wolf? Now you can have that!
