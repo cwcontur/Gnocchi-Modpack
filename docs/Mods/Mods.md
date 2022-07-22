@@ -37,6 +37,7 @@ All of the mods included in this mod pack.
 - [Additional Enchants (by KalaxiLoL)](https://www.curseforge.com/minecraft/mc-mods/additional-enchants)
 - [Additional Guns (by mrpineapppl3)](https://www.curseforge.com/minecraft/mc-mods/additional-guns)
 - [Additional Structures (by XxRexRaptorxX)](https://www.curseforge.com/minecraft/mc-mods/additional-structures)
+- [Advanced Finders (by EnderLanky)](https://www.curseforge.com/minecraft/mc-mods/advanced-finders)
 - [Advanced Peripherals (by srrendi)](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)
 - [Advanced XRay (Forge Edition) (by Error_MiKeY)](https://www.curseforge.com/minecraft/mc-mods/advanced-xray)
 - [Advancement Plaques (by Grend_G)](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
