@@ -197,15 +197,3 @@ Radon is an Unofficial Fork of CaffeineMC's "Phosphor", made to work with Forge 
 Phosphor is a *Minecraft* mod which works to optimize one of game's most inefficient areas-- the lighting engine. It works on both the client and server, and can be installed on servers without requiring clients to also have the mod. With Phosphor, the amount of time the game takes to generate chunks can be halved for some dimensions, and frame stuttering experienced while traversing the world can be significantly reduced. It's a no-compromises solution for improving performance either in single-player or large multi-player servers, and changes no features or behaviors of the vanilla game.
 
 ---
-
-## [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
-
-Starlight is a Forge mod for rewriting the light engine to fix lighting performance and lighting errors.
-
-Starlight can be installed either on the dedicated server or client. It is not required to be installed on both sides. If you have Starlight on the server, clients can use Vanilla/Starlight to connect. Likewise, if you have Starlight on the client, you can connect to Vanilla/Starlight servers.
-
-Browsing through [Starlight's Issue Tracker](https://github.com/PaperMC/Starlight/issues) will show further mod incompatibilities. Starlight is a rather destructive light engine rewrite, so it should be expected to break mods more often.
-
-Starlight was developed for higher scale dedicated servers, as they suffered performance problems due to how ungodly slow the light engine was. The only solution was to create an extremely invasive mod which rewrote the entire light engine. I ported the mod to fabric so that I can update it during snapshots, and decided that publishing it for all users, especially client users, would be beneficial. However, it does have the downside of being an invasive mod: Being invasive didn't affect higher scale servers because they run on Bukkit.
-
-Further reading on the technical details of how Starlight achieves its performance can be read here: [TECHNICAL_DETAILS.md](https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md)
