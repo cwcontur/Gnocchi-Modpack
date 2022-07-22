@@ -382,7 +382,6 @@ All of the mods included in this mod pack.
 - [Speed Building - Scaffolding behavior (by Lothrazar)](https://www.curseforge.com/minecraft/mc-mods/scaffolding-behavior)
 - [Speedy Hoppers (by Dark_Arcana)](https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers)
 - [Spice of Life: Carrot Edition (by lordcazsius)](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
-- [Starlight (Forge) (by Spottedstar)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
 - [Step (by ModdingLegacy)](https://www.curseforge.com/minecraft/mc-mods/step)
 - [Storage Drawers (by Texelsaur)](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [Structure Gel API (by ModdingLegacy)](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
