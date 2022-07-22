@@ -26,6 +26,7 @@ Changes made to client configuration files.
 ### blue_skies-client.toml
 
 `custom_panorama = false`
+
 `limit_brightness = false`
 
 ---
@@ -33,6 +34,7 @@ Changes made to client configuration files.
 ### blue_skies-common.toml
 
 `allow_halloween_content = false`
+
 `allow_christmas_content = false`
 
 ---
@@ -40,6 +42,7 @@ Changes made to client configuration files.
 ### connectivity-common.toml
 
 `logintimeout = 10000`
+
 `disconnectTimeout = 180`
 
 ---
@@ -59,6 +62,7 @@ Changes made to client configuration files.
 ### fallingtree.json
 
 `registerEnchant = true`
+
 `registerSpecificEnchant = true`
 
 ---
