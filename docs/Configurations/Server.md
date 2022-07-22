@@ -70,12 +70,19 @@ Changes made to server configuration files.
 ### server.properties
 
 `allow-flight = true`
+
 `enable-rcon = true`
+
 `enable status = true`
+
 `entity_broadcast_range_percentage = 75`
+
 `max_tick_time = 60000`
+
 `network-compression-threshold = 256`
+
 `simulation_distance = 10`
+
 `view_distance = 10`
 
 ---
