@@ -327,6 +327,7 @@ All of the mods included in this mod pack.
 - [PlantTech 2 (by chrisland)](https://www.curseforge.com/minecraft/mc-mods/planttech-2)
 - [PneumaticCraft: Repressurized (by desht_08)](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 - [PolyLib (by Official_CreeperHost)](https://www.curseforge.com/minecraft/mc-mods/polylib)
+- [Polymorph (Forge) (by TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 - [Ponder for KubeJS (by Lytho_)](https://www.curseforge.com/minecraft/mc-mods/ponder)
 - [Portality (by Buuz135)](https://www.curseforge.com/minecraft/mc-mods/portality)
 - [Potions Master (by thevortexFoxTopia)](https://www.curseforge.com/minecraft/mc-mods/potionsmaster)
